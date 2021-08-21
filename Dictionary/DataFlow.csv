@@ -1,0 +1,7 @@
+ID,NAME,TYPE,STATUS,DDL_CODE,ETL_CODE,COPY_CODE,FILE_PREFIX,STAGE_TABLE,DQ_TABLE,ETL_TABLE,TARGET_TABLE
+1,df_address,LOAD,1,ddl_dim_address.sql,elt_dim_address.sql,,aims-address,StageAddress,DQAddress,ETLAddress,DimAddress
+2,df_property_title,LOAD,0,ddl_dim_property_title.sql,elt_dim_property_title.sql,,nz-property-titles,StagePropertyTitle,DQPropertyTitle,ETLPropertyTitle,DimPropertyTitle
+3,df_property_title_w_owner,LOAD,0,ddl_dim_property_title_w_owner.sql,elt_dim_property_title_w_owner.sql,,nz-property-titles-including-owners,StagePropertyTitleWithOwner,DQPropertyTitleWithOwner,ETLPropertyTitleWithOwner,DimPropertyTitleWithOwner
+4,df_street_address,LOAD,0,ddl_dim_street_address.sql,elt_dim_street_address.sql,,nz-street-address,StageStreetAddress,DQStreetAddress,ETLStreetAddress,DimStreetAddress
+5,df_title_address,LOAD,0,ddl_dim_title_address.sql,elt_dim_title_address.sql,,nz-title-address,StageTitleAddress,DQTitleAddress,ETLTitleAddress,DimTitleAddress
+6,df_title_parcel_association,LOAD,0,ddl_dim_title_parcel_association.sql,elt_dim_title_parcel_association.sql,,nz-title-parcel-association-list,StageTitleParcelAssociation,DQTitleParcelAssociation,ETLTitleParcelAssociation,DimTitleParcelAssociation
