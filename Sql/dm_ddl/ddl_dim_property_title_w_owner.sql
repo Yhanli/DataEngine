@@ -1,39 +1,39 @@
 CREATE TABLE IF NOT EXISTS `STAGE`.`StagePropertyTitleWithOwner`
 (
-    `FILENAME`                          VARCHAR(50)
+    `FILENAME`                          VARCHAR(200)
     ,`BATCHDATEKEY`                     INT
     ,`ROWID`                            INT AUTO_INCREMENT
 
-    ,`WKT`                              TEXT
-    ,`ID`                               VARCHAR(10)
-    ,`TITLE_NO`                         VARCHAR(20)
-    ,`STATUS`                           VARCHAR(20)
-    ,`TYPE`                             VARCHAR(20)
-    ,`LAND_DISTRICT`                    VARCHAR(20)
-    ,`ISSUE_DATE`                       VARCHAR(20)
-    ,`GUARANTEE_STATUS`                 VARCHAR(10)
-    ,`ESTATE_DESCRIPTION`               VARCHAR(100)
-    ,`OWNERS`                           TEXT
-    ,`SPATIAL_EXTENTS_SHARED`           VARCHAR(10)
+    ,`WKT`                              LONGTEXT
+    ,`ID`                               VARCHAR(100)
+    ,`TITLE_NO`                         VARCHAR(200)
+    ,`STATUS`                           VARCHAR(100)
+    ,`TYPE`                             VARCHAR(100)
+    ,`LAND_DISTRICT`                    VARCHAR(200)
+    ,`ISSUE_DATE`                       VARCHAR(100)
+    ,`GUARANTEE_STATUS`                 VARCHAR(100)
+    ,`ESTATE_DESCRIPTION`               LONGTEXT
+    ,`OWNERS`                           LONGTEXT
+    ,`SPATIAL_EXTENTS_SHARED`           VARCHAR(100)
     ,KEY(`ROWID`)
 );
 CREATE TABLE IF NOT EXISTS `DQ`.`DQPropertyTitleWithOwner`
 (
-    `FILENAME`                          VARCHAR(50)
+    `FILENAME`                          VARCHAR(200)
     ,`BATCHDATEKEY`                     INT
     ,`ROWID`                            INT AUTO_INCREMENT
 
-    ,`WKT`                              TEXT
-    ,`ID`                               VARCHAR(10)
-    ,`TITLE_NO`                         VARCHAR(20)
-    ,`STATUS`                           VARCHAR(20)
-    ,`TYPE`                             VARCHAR(20)
-    ,`LAND_DISTRICT`                    VARCHAR(20)
-    ,`ISSUE_DATE`                       VARCHAR(20)
-    ,`GUARANTEE_STATUS`                 VARCHAR(10)
-    ,`ESTATE_DESCRIPTION`               VARCHAR(100)
-    ,`OWNERS`                           TEXT
-    ,`SPATIAL_EXTENTS_SHARED`           VARCHAR(10)
+    ,`WKT`                              LONGTEXT
+    ,`ID`                               VARCHAR(100)
+    ,`TITLE_NO`                         VARCHAR(200)
+    ,`STATUS`                           VARCHAR(100)
+    ,`TYPE`                             VARCHAR(100)
+    ,`LAND_DISTRICT`                    VARCHAR(200)
+    ,`ISSUE_DATE`                       VARCHAR(100)
+    ,`GUARANTEE_STATUS`                 VARCHAR(100)
+    ,`ESTATE_DESCRIPTION`               LONGTEXT
+    ,`OWNERS`                           LONGTEXT
+    ,`SPATIAL_EXTENTS_SHARED`           VARCHAR(100)
     ,KEY(`ROWID`)
 );
 

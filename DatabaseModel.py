@@ -1,6 +1,7 @@
 import pymysql
 import sys
 import configparser
+from sqlalchemy import create_engine
 
 conf = configparser.ConfigParser()
 
@@ -22,6 +23,7 @@ class DatabaseModel:
         )
         self.CURSOR = self.DB.cursor()
         self.CURSOR.execute('SET SQL_MODE=ANSI_QUOTES')
+        self.ENGINE = create_engine(f'mysql://{conf["DB"]["USER"]}:{conf["DB"]["PASS"]}@{conf["DB"]["HOST"]}:{conf["DB"]["PORT"]}')
 
     def execute_sql_file(self, filepath):
         with open(filepath, 'r') as fp:
@@ -33,3 +35,4 @@ class DatabaseModel:
 
     def close(self):
         self.DB.close()
+        self.ENGINE.dispose()
