@@ -1,26 +1,26 @@
 CREATE TABLE IF NOT EXISTS `STAGE`.`StageTitleParcelAssociation`
 (
-    `FILENAME`                          VARCHAR(50)
+    `FILENAME`                          VARCHAR(200)
     ,`BATCHDATEKEY`                     INT
     ,`ROWID`                            INT AUTO_INCREMENT
 
-    ,`ID`                               VARCHAR(10)
-    ,`TITLE_NO`                         VARCHAR(20)
-    ,`PAR_ID`                           VARCHAR(10)
-    ,`SOURCE`                           VARCHAR(20)
+    ,`ID`                               VARCHAR(100)
+    ,`TITLE_NO`                         VARCHAR(200)
+    ,`PAR_ID`                           VARCHAR(100)
+    ,`SOURCE`                           VARCHAR(200)
 
     ,KEY(`ROWID`)
 );
 CREATE TABLE IF NOT EXISTS `DQ`.`StageTitleParcelAssociation`
 (
-    `FILENAME`                          VARCHAR(50)
+    `FILENAME`                          VARCHAR(200)
     ,`BATCHDATEKEY`                     INT
     ,`ROWID`                            INT AUTO_INCREMENT
 
-    ,`ID`                               VARCHAR(10)
-    ,`TITLE_NO`                         VARCHAR(20)
-    ,`PAR_ID`                           VARCHAR(10)
-    ,`SOURCE`                           VARCHAR(20)
+    ,`ID`                               VARCHAR(100)
+    ,`TITLE_NO`                         VARCHAR(200)
+    ,`PAR_ID`                           VARCHAR(100)
+    ,`SOURCE`                           VARCHAR(200)
 
     ,KEY(`ROWID`)
 );

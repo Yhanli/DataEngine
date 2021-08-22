@@ -3,6 +3,8 @@ import csv
 import sys
 from datetime import datetime
 
+import pandas as pd
+
 import petl
 
 from DatabaseModel import DatabaseModel
@@ -32,7 +34,7 @@ class ActionModel:
         self.DQ_TABLE = attrib["DQ_TABLE"]
         self.ETL_TABLE = attrib["ETL_TABLE"]
         self.TARGET_TABLE = attrib["TARGET_TABLE"]
-        self.BATCH_DATE_KEY = datetime.now().strftime('%Y%m%d%H%M%S')
+        self.BATCH_DATE_KEY = datetime.now().strftime('%Y%m%d')
 
     def is_valid(self):
         return True if self.STATUS == '1' else False
@@ -59,7 +61,26 @@ class ActionModel:
             print(f"Success : Staged {self.STAGE_TABLE} using {self.FILE_PREFIX}.csv")
             return True
         except Exception as e:
+            print(f"Fail : Staging {self.STAGE_TABLE} with {self.FILE_PREFIX}, {e} , trying with pandas")
+            # traceback.print_exc()
+            # status = self.staging_pandas()
+            return False
+
+    def staging_pandas(self):
+        try:
+            data = pd.read_csv(f'{conf["DATA"]["DATA_FOLDER"]}/{self.FILE_PREFIX}.csv', encoding='utf-8-sig',
+                               dtype='unicode')
+            data.insert(loc=0, column='FILENAME', value=self.FILE_PREFIX)
+            data.insert(loc=0, column='BATCHDATEKEY', value=self.BATCH_DATE_KEY)
+            rename = {x: x.upper() for x in data.columns}
+            data = data.rename(columns=rename)
+            data.to_sql(self.STAGE_TABLE, con=DB.ENGINE, schema='STAGE', if_exists="append", index=False)
+            print(f"Success : Staged {self.STAGE_TABLE} using {self.FILE_PREFIX}.csv")
+            return True
+
+        except Exception as e:
             print(f"Fail : Staging {self.STAGE_TABLE} with {self.FILE_PREFIX}, {e} ")
+            # traceback.print_exc()
             return False
 
     def destroy_stage(self):
@@ -140,4 +161,3 @@ class ActionListModel:
     def destroy_all_dwh(self):
         for action in self.ACTIONS:
             action.destroy_dwh()
-

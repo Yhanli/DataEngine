@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS `STAGE`.`StageAddress`
 (
-    `FILENAME`                          VARCHAR(50)
+    `FILENAME`                          VARCHAR(200)
     ,`BATCHDATEKEY`                     INT
     ,`ROWID`                            INT AUTO_INCREMENT
     ,`ADDRESS_ID`                       VARCHAR(10)
@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS `STAGE`.`StageAddress`
 );
 CREATE TABLE IF NOT EXISTS `DQ`.`DQAddress`
 (
-    `FILENAME`                          VARCHAR(50)
+    `FILENAME`                          VARCHAR(200)
     ,`BATCHDATEKEY`                     INT
     ,`ROWID`                            INT AUTO_INCREMENT
     ,`ADDRESS_ID`                       VARCHAR(10)

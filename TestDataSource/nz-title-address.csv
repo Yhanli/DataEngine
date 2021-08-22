@@ -1,10 +1,1047 @@
 certificateOfTitle,fullAddress,address,externalSuburb
-,"Spirits Bay Road, Far North",Spirits Bay Road,
-,"Spirits Bay Road, Far North",Spirits Bay Road,
-NA43B/776,"1247 Te Hapua Road, Far North",1247 Te Hapua Road,
-NA91/6,"Spirits Bay Road, Far North",Spirits Bay Road,
-,"Spirits Bay Road, Far North",Spirits Bay Road,
-NA70/145,"Spirits Bay Road, Far North",Spirits Bay Road,
-494204,"Spirits Bay Road, Far North",Spirits Bay Road,
-NA43B/775,"Spirits Bay Road, Far North",Spirits Bay Road,
-NA46B/1064,"Spirits Bay Road, Far North",Spirits Bay Road,
+NA10C/915,"201 Kerikeri Road, Kerikeri, Far North",201 Kerikeri Road,Kerikeri
+NA10C/970,"362 Kamo Road, Kamo, Whangarei",362 Kamo Road,Kamo
+NA10C/971,"360 Kamo Road, Kamo, Whangarei",360 Kamo Road,Kamo
+NA10C/972,"358 Kamo Road, Kamo, Whangarei",358 Kamo Road,Kamo
+NA10C/924,"421 Kamo Road, Kamo, Whangarei",421 Kamo Road,Kamo
+NA10C/925,"419 Kamo Road, Kamo, Whangarei",419 Kamo Road,Kamo
+NA10C/663,"19 Whau Valley Road, Whau Valley, Whangarei",19 Whau Valley Road,Whau Valley
+NA10C/903,"111 Paranui Valley Road, Tikipunga, Whangarei",111 Paranui Valley Road,Tikipunga
+NA10C/1243,"127/121 Port Road, Whangarei Central, Whangarei",127/121 Port Road,Whangarei Central
+NA10C/1,"11 Raewyn Street, Morningside, Whangarei",11 Raewyn Street,Morningside
+NA10C/977,"168 Maunu Road, Woodhill, Whangarei",168 Maunu Road,Woodhill
+NA10C/693,"39 George Point Road, Onerahi, Whangarei",39 George Point Road,Onerahi
+NA10C/692,"41 George Point Road, Onerahi, Whangarei",41 George Point Road,Onerahi
+NA10C/691,"43 George Point Road, Onerahi, Whangarei",43 George Point Road,Onerahi
+NA10C/690,"45 George Point Road, Onerahi, Whangarei",45 George Point Road,Onerahi
+NA10C/689,"56 George Point Road, Onerahi, Whangarei",56 George Point Road,Onerahi
+NA10C/687,"52 George Point Road, Onerahi, Whangarei",52 George Point Road,Onerahi
+NA10C/686,"50 George Point Road, Onerahi, Whangarei",50 George Point Road,Onerahi
+NA10C/685,"48 George Point Road, Onerahi, Whangarei",48 George Point Road,Onerahi
+NA10C/684,"46 George Point Road, Onerahi, Whangarei",46 George Point Road,Onerahi
+NA10C/683,"44 George Point Road, Onerahi, Whangarei",44 George Point Road,Onerahi
+NA10C/682,"42 George Point Road, Onerahi, Whangarei",42 George Point Road,Onerahi
+NA10C/681,"38 George Point Road, Onerahi, Whangarei",38 George Point Road,Onerahi
+NA10C/671,"5 Mason Street, Onerahi, Whangarei",5 Mason Street,Onerahi
+NA10C/1454,"8 Woodlands Place, Snells Beach, Auckland - Rodney",8 Woodlands Place,Snells Beach
+NA10C/1455,"6 Woodlands Place, Snells Beach, Auckland - Rodney",6 Woodlands Place,Snells Beach
+NA10C/1456,"4 Woodlands Place, Snells Beach, Auckland - Rodney",4 Woodlands Place,Snells Beach
+NA10C/1443,"397 Mahurangi East Road, Snells Beach, Auckland - Rodney",397 Mahurangi East Road,Snells Beach
+NA10C/1444,"399 Mahurangi East Road, Snells Beach, Auckland - Rodney",399 Mahurangi East Road,Snells Beach
+NA10C/1445,"401 Mahurangi East Road, Snells Beach, Auckland - Rodney",401 Mahurangi East Road,Snells Beach
+NA10C/1447,"405 Mahurangi East Road, Snells Beach, Auckland - Rodney",405 Mahurangi East Road,Snells Beach
+NA10C/1448,"3 Rangimaarie Crescent, Snells Beach, Auckland - Rodney",3 Rangimaarie Crescent,Snells Beach
+NA10C/1450,"7 Rangimaarie Crescent, Snells Beach, Auckland - Rodney",7 Rangimaarie Crescent,Snells Beach
+NA10C/1451,"9 Rangimaarie Crescent, Snells Beach, Auckland - Rodney",9 Rangimaarie Crescent,Snells Beach
+NA10C/1151,"91 Ranfurly Street, Dargaville, Kaipara",91 Ranfurly Street,Dargaville
+NA10C/1152,"93 Ranfurly Street, Dargaville, Kaipara",93 Ranfurly Street,Dargaville
+NA10C/1153,"1 Mckay Crescent, Dargaville, Kaipara",1 Mckay Crescent,Dargaville
+NA10C/1158,"105 Ranfurly Street, Dargaville, Kaipara",105 Ranfurly Street,Dargaville
+NA10C/1156,"101 Ranfurly Street, Dargaville, Kaipara",101 Ranfurly Street,Dargaville
+NA10C/1155,"99 Ranfurly Street, Dargaville, Kaipara",99 Ranfurly Street,Dargaville
+NA10C/1159,"107 Ranfurly Street, Dargaville, Kaipara",107 Ranfurly Street,Dargaville
+NA10C/1125,"88 Ranfurly Street, Dargaville, Kaipara",88 Ranfurly Street,Dargaville
+NA10C/1126,"90 Ranfurly Street, Dargaville, Kaipara",90 Ranfurly Street,Dargaville
+NA10C/1127,"96 Ranfurly Street, Dargaville, Kaipara",96 Ranfurly Street,Dargaville
+NA10C/1128,"98 Ranfurly Street, Dargaville, Kaipara",98 Ranfurly Street,Dargaville
+NA10C/1130,"100 Ranfurly Street, Dargaville, Kaipara",100 Ranfurly Street,Dargaville
+NA10C/1131,"2 First Avenue, Dargaville, Kaipara",2 First Avenue,Dargaville
+NA10C/1133,"6 First Avenue, Dargaville, Kaipara",6 First Avenue,Dargaville
+NA10C/1136,"12 First Avenue, Dargaville, Kaipara",12 First Avenue,Dargaville
+NA10C/1137,"14 First Avenue, Dargaville, Kaipara",14 First Avenue,Dargaville
+NA10C/1138,"16 First Avenue, Dargaville, Kaipara",16 First Avenue,Dargaville
+NA10C/1139,"18 First Avenue, Dargaville, Kaipara",18 First Avenue,Dargaville
+NA10C/1140,"20 First Avenue, Dargaville, Kaipara",20 First Avenue,Dargaville
+NA10C/1141,"19 First Avenue, Dargaville, Kaipara",19 First Avenue,Dargaville
+NA10C/1142,"17 First Avenue, Dargaville, Kaipara",17 First Avenue,Dargaville
+NA10C/1143,"15 First Avenue, Dargaville, Kaipara",15 First Avenue,Dargaville
+NA10C/1144,"11a First Avenue, Dargaville, Kaipara",11a First Avenue,Dargaville
+NA10C/1132,"4 First Avenue, Dargaville, Kaipara",4 First Avenue,Dargaville
+NA10C/1148,"5 First Avenue, Dargaville, Kaipara",5 First Avenue,Dargaville
+NA10C/1149,"3 First Avenue, Dargaville, Kaipara",3 First Avenue,Dargaville
+NA10C/1147,"7 First Avenue, Dargaville, Kaipara",7 First Avenue,Dargaville
+NA10C/395,"7 Edward Street, Dargaville, Kaipara",7 Edward Street,Dargaville
+NA10C/394,"Edward Street, Dargaville, Kaipara",Edward Street,Dargaville
+NA10C/398,"35 Clarendon Road, Saint Heliers, Auckland - City",35 Clarendon Road,Saint Heliers
+NA10C/397,"37 Clarendon Road, Saint Heliers, Auckland - City",37 Clarendon Road,Saint Heliers
+NA10C/1061,"65 Clarendon Road, Saint Heliers, Auckland - City",65 Clarendon Road,Saint Heliers
+NA10C/1059,"1 Springcombe Road, Saint Heliers, Auckland - City",1 Springcombe Road,Saint Heliers
+NA10C/909,"8 Farmhouse Lane, Saint Johns, Auckland - City",8 Farmhouse Lane,Saint Johns
+NA10C/910,"6 Farmhouse Lane, Saint Johns, Auckland - City",6 Farmhouse Lane,Saint Johns
+NA10C/911,"4 Farmhouse Lane, Saint Johns, Auckland - City",4 Farmhouse Lane,Saint Johns
+NA10C/1115,"22 Takitimu Street, Orakei, Auckland - City",22 Takitimu Street,Orakei
+NA10C/1109,"46 Takitimu Street, Orakei, Auckland - City",46 Takitimu Street,Orakei
+NA10C/1107,"8 Takitimu Street, Orakei, Auckland - City",8 Takitimu Street,Orakei
+NA10C/1260,"62 Brown Street, Ponsonby, Auckland - City",62 Brown Street,Ponsonby
+NA10C/446,"210a Meola Road, Point Chevalier, Auckland - City",210a Meola Road,Point Chevalier
+NA10C/460,"210 Meola Road, Point Chevalier, Auckland - City",210 Meola Road,Point Chevalier
+NA10C/393,"32 Eastdale Road, Avondale, Auckland - City",32 Eastdale Road,Avondale
+NA10C/293,"1 Malory Street, Avondale, Auckland - City",1 Malory Street,Avondale
+NA10C/292,"1 Lidcombe Place, Avondale, Auckland - City",1 Lidcombe Place,Avondale
+NA10C/291,"3 Lidcombe Place, Avondale, Auckland - City",3 Lidcombe Place,Avondale
+NA10C/290,"5 Lidcombe Place, Avondale, Auckland - City",5 Lidcombe Place,Avondale
+NA10C/287,"11 Lidcombe Place, Avondale, Auckland - City",11 Lidcombe Place,Avondale
+NA10C/392,"11a Lidcombe Place, Avondale, Auckland - City",11a Lidcombe Place,Avondale
+NA10C/286,"15 Lidcombe Place, Avondale, Auckland - City",15 Lidcombe Place,Avondale
+NA10C/285,"17 Lidcombe Place, Avondale, Auckland - City",17 Lidcombe Place,Avondale
+NA10C/283,"21 Lidcombe Place, Avondale, Auckland - City",21 Lidcombe Place,Avondale
+NA10C/272,"4 Lidcombe Place, Avondale, Auckland - City",4 Lidcombe Place,Avondale
+NA10C/273,"6 Lidcombe Place, Avondale, Auckland - City",6 Lidcombe Place,Avondale
+NA10C/274,"8 Lidcombe Place, Avondale, Auckland - City",8 Lidcombe Place,Avondale
+NA10C/275,"3/10 Lidcombe Place, Avondale, Auckland - City",3/10 Lidcombe Place,Avondale
+NA10C/276,"12 Lidcombe Place, Avondale, Auckland - City",12 Lidcombe Place,Avondale
+NA10C/278,"16 Lidcombe Place, Avondale, Auckland - City",16 Lidcombe Place,Avondale
+NA10C/363,"171 Avondale Road, Avondale, Auckland - City",171 Avondale Road,Avondale
+NA10C/362,"173 Avondale Road, Avondale, Auckland - City",173 Avondale Road,Avondale
+NA10C/361,"175 Avondale Road, Avondale, Auckland - City",175 Avondale Road,Avondale
+NA10C/1051,"211a Gillies Avenue, Epsom, Auckland - City",211a Gillies Avenue,Epsom
+NA10C/1057,"40 Bassett Road, Remuera, Auckland - City",40 Bassett Road,Remuera
+NA10C/933,"27 Bell Road, Remuera, Auckland - City",27 Bell Road,Remuera
+NA10C/934,"29 Bell Road, Remuera, Auckland - City",29 Bell Road,Remuera
+NA10C/462,"35a Portland Road, Remuera, Auckland - City",35a Portland Road,Remuera
+NA10C/781,"24 Mahoe Avenue, Remuera, Auckland - City",24 Mahoe Avenue,Remuera
+NA10C/467,"18 Worcester Road, Meadowbank, Auckland - City",18 Worcester Road,Meadowbank
+NA10C/468,"16 Worcester Road, Meadowbank, Auckland - City",16 Worcester Road,Meadowbank
+NA10C/465,"12 Worcester Road, Meadowbank, Auckland - City",12 Worcester Road,Meadowbank
+NA10C/513,"15 Worcester Road, Meadowbank, Auckland - City",15 Worcester Road,Meadowbank
+NA10C/519,"3 Keretene Place, Meadowbank, Auckland - City",3 Keretene Place,Meadowbank
+NA10C/516,"6 Keretene Place, Meadowbank, Auckland - City",6 Keretene Place,Meadowbank
+NA10C/518,"5 Keretene Place, Meadowbank, Auckland - City",5 Keretene Place,Meadowbank
+NA10C/517,"7 Keretene Place, Meadowbank, Auckland - City",7 Keretene Place,Meadowbank
+NA10C/515,"4 Keretene Place, Meadowbank, Auckland - City",4 Keretene Place,Meadowbank
+NA10C/520,"9 Worcester Road, Meadowbank, Auckland - City",9 Worcester Road,Meadowbank
+NA10C/512,"125 Gowing Drive, Meadowbank, Auckland - City",125 Gowing Drive,Meadowbank
+NA10C/511,"127 Gowing Drive, Meadowbank, Auckland - City",127 Gowing Drive,Meadowbank
+NA10C/510,"129 Gowing Drive, Meadowbank, Auckland - City",129 Gowing Drive,Meadowbank
+NA10C/509,"131 Gowing Drive, Meadowbank, Auckland - City",131 Gowing Drive,Meadowbank
+NA10C/507,"135 Gowing Drive, Meadowbank, Auckland - City",135 Gowing Drive,Meadowbank
+NA10C/506,"137 Gowing Drive, Meadowbank, Auckland - City",137 Gowing Drive,Meadowbank
+NA10C/503,"143 Gowing Drive, Meadowbank, Auckland - City",143 Gowing Drive,Meadowbank
+NA10C/502,"145 Gowing Drive, Meadowbank, Auckland - City",145 Gowing Drive,Meadowbank
+NA10C/501,"147 Gowing Drive, Meadowbank, Auckland - City",147 Gowing Drive,Meadowbank
+NA10C/499,"151 Gowing Drive, Meadowbank, Auckland - City",151 Gowing Drive,Meadowbank
+NA10C/498,"153 Gowing Drive, Meadowbank, Auckland - City",153 Gowing Drive,Meadowbank
+NA10C/497,"155 Gowing Drive, Meadowbank, Auckland - City",155 Gowing Drive,Meadowbank
+NA10C/496,"157 Gowing Drive, Meadowbank, Auckland - City",157 Gowing Drive,Meadowbank
+NA10C/495,"159 Gowing Drive, Meadowbank, Auckland - City",159 Gowing Drive,Meadowbank
+NA10C/470,"180 Gowing Drive, Meadowbank, Auckland - City",180 Gowing Drive,Meadowbank
+NA10C/471,"182 Gowing Drive, Meadowbank, Auckland - City",182 Gowing Drive,Meadowbank
+NA10C/472,"184 Gowing Drive, Meadowbank, Auckland - City",184 Gowing Drive,Meadowbank
+NA10C/474,"188 Gowing Drive, Meadowbank, Auckland - City",188 Gowing Drive,Meadowbank
+NA10C/477,"194 Gowing Drive, Meadowbank, Auckland - City",194 Gowing Drive,Meadowbank
+NA10C/479,"198 Gowing Drive, Meadowbank, Auckland - City",198 Gowing Drive,Meadowbank
+NA10C/480,"200 Gowing Drive, Meadowbank, Auckland - City",200 Gowing Drive,Meadowbank
+NA10C/481,"202 Gowing Drive, Meadowbank, Auckland - City",202 Gowing Drive,Meadowbank
+NA10C/482,"204 Gowing Drive, Meadowbank, Auckland - City",204 Gowing Drive,Meadowbank
+NA10C/483,"206 Gowing Drive, Meadowbank, Auckland - City",206 Gowing Drive,Meadowbank
+NA10C/485,"210 Gowing Drive, Meadowbank, Auckland - City",210 Gowing Drive,Meadowbank
+NA10C/486,"212 Gowing Drive, Meadowbank, Auckland - City",212 Gowing Drive,Meadowbank
+NA10C/487,"214 Gowing Drive, Meadowbank, Auckland - City",214 Gowing Drive,Meadowbank
+NA10C/488,"216 Gowing Drive, Meadowbank, Auckland - City",216 Gowing Drive,Meadowbank
+NA10C/489,"218 Gowing Drive, Meadowbank, Auckland - City",218 Gowing Drive,Meadowbank
+NA10C/490,"220 Gowing Drive, Meadowbank, Auckland - City",220 Gowing Drive,Meadowbank
+NA10C/491,"222 Gowing Drive, Meadowbank, Auckland - City",222 Gowing Drive,Meadowbank
+NA10C/492,"224 Gowing Drive, Meadowbank, Auckland - City",224 Gowing Drive,Meadowbank
+NA10C/494,"228a Gowing Drive, Meadowbank, Auckland - City",228a Gowing Drive,Meadowbank
+NA10C/404,"21 Arron Street, Ellerslie, Auckland - City",21 Arron Street,Ellerslie
+NA10C/265,"59 Stonex Road, Papatoetoe, Auckland - Manukau",59 Stonex Road,Papatoetoe
+NA10C/269,"60 Stonex Road, Papatoetoe, Auckland - Manukau",60 Stonex Road,Papatoetoe
+NA10C/267,"64 Stonex Road, Papatoetoe, Auckland - Manukau",64 Stonex Road,Papatoetoe
+NA10C/14,"8 Pencarrow Avenue, Mount Eden, Auckland - City",8 Pencarrow Avenue,Mount Eden
+NA10C/1240,"47 Balmoral Road, Mount Eden, Auckland - City",47 Balmoral Road,Mount Eden
+NA10C/885,"1 Rendcomb Place, Hillsborough, Auckland - City",1 Rendcomb Place,Hillsborough
+NA10C/884,"2 Rendcomb Place, Hillsborough, Auckland - City",2 Rendcomb Place,Hillsborough
+NA10C/883,"3 Rendcomb Place, Hillsborough, Auckland - City",3 Rendcomb Place,Hillsborough
+NA10C/882,"4 Rendcomb Place, Hillsborough, Auckland - City",4 Rendcomb Place,Hillsborough
+NA10C/881,"5 Rendcomb Place, Hillsborough, Auckland - City",5 Rendcomb Place,Hillsborough
+NA10C/880,"6 Rendcomb Place, Hillsborough, Auckland - City",6 Rendcomb Place,Hillsborough
+NA10C/877,"9 Rendcomb Place, Hillsborough, Auckland - City",9 Rendcomb Place,Hillsborough
+NA10C/876,"10 Rendcomb Place, Hillsborough, Auckland - City",10 Rendcomb Place,Hillsborough
+NA10C/875,"11 Rendcomb Place, Hillsborough, Auckland - City",11 Rendcomb Place,Hillsborough
+NA10C/874,"12 Rendcomb Place, Hillsborough, Auckland - City",12 Rendcomb Place,Hillsborough
+NA10C/873,"13 Rendcomb Place, Hillsborough, Auckland - City",13 Rendcomb Place,Hillsborough
+NA10C/872,"14 Rendcomb Place, Hillsborough, Auckland - City",14 Rendcomb Place,Hillsborough
+NA10C/871,"15 Rendcomb Place, Hillsborough, Auckland - City",15 Rendcomb Place,Hillsborough
+NA10C/870,"16 Rendcomb Place, Hillsborough, Auckland - City",16 Rendcomb Place,Hillsborough
+NA10C/869,"17 Rendcomb Place, Hillsborough, Auckland - City",17 Rendcomb Place,Hillsborough
+NA10C/368,"45b Frederick Street, Hillsborough, Auckland - City",45b Frederick Street,Hillsborough
+NA10C/867,"105 Frederick Street, Hillsborough, Auckland - City",105 Frederick Street,Hillsborough
+NA10C/863,"97 Frederick Street, Hillsborough, Auckland - City",97 Frederick Street,Hillsborough
+NA10C/864,"99 Frederick Street, Hillsborough, Auckland - City",99 Frederick Street,Hillsborough
+NA10C/865,"101 Frederick Street, Hillsborough, Auckland - City",101 Frederick Street,Hillsborough
+NA10C/866,"103 Frederick Street, Hillsborough, Auckland - City",103 Frederick Street,Hillsborough
+NA10C/868,"107 Frederick Street, Hillsborough, Auckland - City",107 Frederick Street,Hillsborough
+NA10C/771,"49 Willoughby Avenue, Howick, Auckland - Manukau",49 Willoughby Avenue,Howick
+NA10C/764,"50 Willoughby Avenue, Howick, Auckland - Manukau",50 Willoughby Avenue,Howick
+NA10C/765,"52 Willoughby Avenue, Howick, Auckland - Manukau",52 Willoughby Avenue,Howick
+NA10C/766,"54 Willoughby Avenue, Howick, Auckland - Manukau",54 Willoughby Avenue,Howick
+NA10C/767,"56 Willoughby Avenue, Howick, Auckland - Manukau",56 Willoughby Avenue,Howick
+NA10C/754,"41 Juliet Avenue, Howick, Auckland - Manukau",41 Juliet Avenue,Howick
+NA10C/755,"43 Juliet Avenue, Howick, Auckland - Manukau",43 Juliet Avenue,Howick
+NA10C/756,"45 Juliet Avenue, Howick, Auckland - Manukau",45 Juliet Avenue,Howick
+NA10C/757,"47 Juliet Avenue, Howick, Auckland - Manukau",47 Juliet Avenue,Howick
+NA10C/759,"51 Juliet Avenue, Howick, Auckland - Manukau",51 Juliet Avenue,Howick
+NA10C/760,"53 Juliet Avenue, Howick, Auckland - Manukau",53 Juliet Avenue,Howick
+NA10C/761,"55 Juliet Avenue, Howick, Auckland - Manukau",55 Juliet Avenue,Howick
+NA10C/762,"57 Juliet Avenue, Howick, Auckland - Manukau",57 Juliet Avenue,Howick
+NA10C/753,"28 Juliet Avenue, Howick, Auckland - Manukau",28 Juliet Avenue,Howick
+NA10C/752,"30 Juliet Avenue, Howick, Auckland - Manukau",30 Juliet Avenue,Howick
+NA10C/751,"32 Juliet Avenue, Howick, Auckland - Manukau",32 Juliet Avenue,Howick
+NA10C/750,"34 Juliet Avenue, Howick, Auckland - Manukau",34 Juliet Avenue,Howick
+NA10C/749,"36 Juliet Avenue, Howick, Auckland - Manukau",36 Juliet Avenue,Howick
+NA10C/748,"38 Juliet Avenue, Howick, Auckland - Manukau",38 Juliet Avenue,Howick
+NA10C/747,"40 Juliet Avenue, Howick, Auckland - Manukau",40 Juliet Avenue,Howick
+NA10C/744,"46 Juliet Avenue, Howick, Auckland - Manukau",46 Juliet Avenue,Howick
+NA10C/743,"48 Juliet Avenue, Howick, Auckland - Manukau",48 Juliet Avenue,Howick
+NA10C/742,"50 Juliet Avenue, Howick, Auckland - Manukau",50 Juliet Avenue,Howick
+NA10C/740,"54 Juliet Avenue, Howick, Auckland - Manukau",54 Juliet Avenue,Howick
+NA10C/739,"56 Juliet Avenue, Howick, Auckland - Manukau",56 Juliet Avenue,Howick
+NA10C/738,"26 Finnerty Avenue, Howick, Auckland - Manukau",26 Finnerty Avenue,Howick
+NA10C/897,"13 Baird Street, Howick, Auckland - Manukau",13 Baird Street,Howick
+NA10C/896,"15 Baird Street, Howick, Auckland - Manukau",15 Baird Street,Howick
+NA10C/895,"17 Baird Street, Howick, Auckland - Manukau",17 Baird Street,Howick
+NA10C/894,"19 Baird Street, Howick, Auckland - Manukau",19 Baird Street,Howick
+NA10C/893,"21 Baird Street, Howick, Auckland - Manukau",21 Baird Street,Howick
+NA10C/892,"23 Baird Street, Howick, Auckland - Manukau",23 Baird Street,Howick
+NA10C/891,"25 Baird Street, Howick, Auckland - Manukau",25 Baird Street,Howick
+NA10C/890,"27 Baird Street, Howick, Auckland - Manukau",27 Baird Street,Howick
+NA10C/616,"2r Paparoa Road, Cockle Bay, Auckland - Manukau",2r Paparoa Road,Cockle Bay
+NA10C/371,"12 Queens Road, Panmure, Auckland - City",12 Queens Road,Panmure
+NA10C/372,"16 Queens Road, Panmure, Auckland - City",16 Queens Road,Panmure
+NA10C/376,"42 Queens Road, Panmure, Auckland - City",42 Queens Road,Panmure
+NA10C/377,"52 Queens Road, Panmure, Auckland - City",52 Queens Road,Panmure
+NA10C/378,"54 Queens Road, Panmure, Auckland - City",54 Queens Road,Panmure
+NA10C/298,"6 Monahan Road, Mount Wellington, Auckland - City",6 Monahan Road,Mount Wellington
+NA10C/1307,"7 Katui Street, Castor Bay, Auckland - North Shore",7 Katui Street,Castor Bay
+NA10C/255,"3 Garmons Way, Castor Bay, Auckland - North Shore",3 Garmons Way,Castor Bay
+NA10C/256,"4 Garmons Way, Castor Bay, Auckland - North Shore",4 Garmons Way,Castor Bay
+NA10C/257,"5 Garmons Way, Castor Bay, Auckland - North Shore",5 Garmons Way,Castor Bay
+NA10C/258,"6 Garmons Way, Castor Bay, Auckland - North Shore",6 Garmons Way,Castor Bay
+NA10C/259,"7 Garmons Way, Castor Bay, Auckland - North Shore",7 Garmons Way,Castor Bay
+NA10C/260,"8 Garmons Way, Castor Bay, Auckland - North Shore",8 Garmons Way,Castor Bay
+NA10C/261,"9 Garmons Way, Castor Bay, Auckland - North Shore",9 Garmons Way,Castor Bay
+NA10C/262,"10 Garmons Way, Castor Bay, Auckland - North Shore",10 Garmons Way,Castor Bay
+NA10C/350,"14 Garmons Way, Castor Bay, Auckland - North Shore",14 Garmons Way,Castor Bay
+NA10C/354,"18 Garmons Way, Castor Bay, Auckland - North Shore",18 Garmons Way,Castor Bay
+NA10C/355,"19 Garmons Way, Castor Bay, Auckland - North Shore",19 Garmons Way,Castor Bay
+NA10C/965,"149 Lancaster Road, Beach Haven, Auckland - North Shore",149 Lancaster Road,Beach Haven
+NA10C/964,"151 Lancaster Road, Beach Haven, Auckland - North Shore",151 Lancaster Road,Beach Haven
+NA10C/962,"155 Lancaster Road, Beach Haven, Auckland - North Shore",155 Lancaster Road,Beach Haven
+NA10C/960,"159 Lancaster Road, Beach Haven, Auckland - North Shore",159 Lancaster Road,Beach Haven
+NA10C/959,"161 Lancaster Road, Beach Haven, Auckland - North Shore",161 Lancaster Road,Beach Haven
+NA10C/966,"12 Ranch Avenue, Beach Haven, Auckland - North Shore",12 Ranch Avenue,Beach Haven
+NA10C/967,"14 Ranch Avenue, Beach Haven, Auckland - North Shore",14 Ranch Avenue,Beach Haven
+NA10C/697,"95 Balmain Road, Birkenhead, Auckland - North Shore",95 Balmain Road,Birkenhead
+NA10C/700,"89 Balmain Road, Birkenhead, Auckland - North Shore",89 Balmain Road,Birkenhead
+NA10C/703,"83 Balmain Road, Birkenhead, Auckland - North Shore",83 Balmain Road,Birkenhead
+NA10C/886,"32 Mokoia Road, Birkenhead, Auckland - North Shore",32 Mokoia Road,Birkenhead
+NA10C/887,"28 Mokoia Road, Birkenhead, Auckland - North Shore",28 Mokoia Road,Birkenhead
+NA10C/623,"116 Verran Road, Birkdale, Auckland - North Shore",116 Verran Road,Birkdale
+NA10C/624,"118 Verran Road, Birkdale, Auckland - North Shore",118 Verran Road,Birkdale
+NA10C/627,"124 Verran Road, Birkdale, Auckland - North Shore",124 Verran Road,Birkdale
+NA10C/630,"130 Verran Road, Birkdale, Auckland - North Shore",130 Verran Road,Birkdale
+NA10C/632,"134 Verran Road, Birkdale, Auckland - North Shore",134 Verran Road,Birkdale
+NA10C/1124,"107 Chelsea View Drive, Chatswood, Auckland - North Shore",107 Chelsea View Drive,Chatswood
+NA10C/1124,"1 Holyoake Place, Chatswood, Auckland - North Shore",1 Holyoake Place,Chatswood
+NA10C/1124,"2 Onetaunga Road, Chatswood, Auckland - North Shore",2 Onetaunga Road,Chatswood
+NA10C/408,"127 Laing Road, Karaka, Auckland - Papakura",127 Laing Road,Karaka
+NA10C/296,"777 Runciman Road, Runciman, Auckland - Franklin",777 Runciman Road,Runciman
+NA10C/295,"775 Runciman Road, Runciman, Auckland - Franklin",775 Runciman Road,Runciman
+NA10C/382,"687c Runciman Road, Runciman, Auckland - Franklin",687c Runciman Road,Runciman
+NA10C/384,"687f Runciman Road, Runciman, Auckland - Franklin",687f Runciman Road,Runciman
+NA10C/383,"687d Runciman Road, Runciman, Auckland - Franklin",687d Runciman Road,Runciman
+NA10C/385,"Runciman Road, Runciman, Auckland - Franklin",Runciman Road,Runciman
+NA10C/386,"Runciman Road, Runciman, Auckland - Franklin",Runciman Road,Runciman
+NA10C/387,"687e Runciman Road, Runciman, Auckland - Franklin",687e Runciman Road,Runciman
+NA10C/667,"1052 Miranda Road, Miranda, Waikato",1052 Miranda Road,Miranda
+NA10C/459,"266 Shoal Bay Road, Auckland - City",266 Shoal Bay Road,NULL
+NA10C/442,"2 Pohutukawa Place, Auckland - City",2 Pohutukawa Place,NULL
+NA10C/443,"13 Rosalie Bay Road, Auckland - City",13 Rosalie Bay Road,NULL
+NA10C/444,"15 Rosalie Bay Road, Auckland - City",15 Rosalie Bay Road,NULL
+NA10C/445,"21 Rosalie Bay Road, Auckland - City",21 Rosalie Bay Road,NULL
+NA10C/456,"4 Rosalie Bay Road, Auckland - City",4 Rosalie Bay Road,NULL
+NA10C/455,"6 Rosalie Bay Road, Auckland - City",6 Rosalie Bay Road,NULL
+NA10C/451,"12a Rosalie Bay Road, Auckland - City",12a Rosalie Bay Road,NULL
+NA10C/450,"12b Rosalie Bay Road, Auckland - City",12b Rosalie Bay Road,NULL
+NA10C/449,"14 Rosalie Bay Road, Auckland - City",14 Rosalie Bay Road,NULL
+NA10C/448,"16 Rosalie Bay Road, Auckland - City",16 Rosalie Bay Road,NULL
+NA10C/447,"18 Rosalie Bay Road, Auckland - City",18 Rosalie Bay Road,NULL
+NA10C/1056,"68 Sandspit Road, Waiuku, Auckland - Franklin",68 Sandspit Road,Waiuku
+NA10C/1073,"19 Hamilton Drive, Waiuku, Auckland - Franklin",19 Hamilton Drive,Waiuku
+NA10C/1072,"17 Hamilton Drive, Waiuku, Auckland - Franklin",17 Hamilton Drive,Waiuku
+NA10C/1071,"15 Hamilton Drive, Waiuku, Auckland - Franklin",15 Hamilton Drive,Waiuku
+NA10C/1070,"12 Matai Street, Waiuku, Auckland - Franklin",12 Matai Street,Waiuku
+NA10C/1069,"14 Matai Street, Waiuku, Auckland - Franklin",14 Matai Street,Waiuku
+NA10C/1068,"10 Matai Street, Waiuku, Auckland - Franklin",10 Matai Street,Waiuku
+NA10C/1067,"8 Matai Street, Waiuku, Auckland - Franklin",8 Matai Street,Waiuku
+NA10C/1066,"6 Matai Street, Waiuku, Auckland - Franklin",6 Matai Street,Waiuku
+NA10C/1065,"4 Matai Street, Waiuku, Auckland - Franklin",4 Matai Street,Waiuku
+NA10C/1064,"2 Matai Street, Waiuku, Auckland - Franklin",2 Matai Street,Waiuku
+NA10C/1063,"11 Hamilton Drive, Waiuku, Auckland - Franklin",11 Hamilton Drive,Waiuku
+NA10C/1062,"13 Hamilton Drive, Waiuku, Auckland - Franklin",13 Hamilton Drive,Waiuku
+NA10C/1095,"1 Hamilton Drive, Waiuku, Auckland - Franklin",1 Hamilton Drive,Waiuku
+NA10C/1094,"3 Hamilton Drive, Waiuku, Auckland - Franklin",3 Hamilton Drive,Waiuku
+NA10C/1093,"5 Hamilton Drive, Waiuku, Auckland - Franklin",5 Hamilton Drive,Waiuku
+NA10C/1092,"7 Hamilton Drive, Waiuku, Auckland - Franklin",7 Hamilton Drive,Waiuku
+NA10C/1091,"9 Hamilton Drive, Waiuku, Auckland - Franklin",9 Hamilton Drive,Waiuku
+NA10C/1090,"1 Matai Street, Waiuku, Auckland - Franklin",1 Matai Street,Waiuku
+NA10C/1089,"3 Matai Street, Waiuku, Auckland - Franklin",3 Matai Street,Waiuku
+NA10C/1088,"5 Matai Street, Waiuku, Auckland - Franklin",5 Matai Street,Waiuku
+NA10C/1087,"7 Matai Street, Waiuku, Auckland - Franklin",7 Matai Street,Waiuku
+NA10C/1086,"9 Matai Street, Waiuku, Auckland - Franklin",9 Matai Street,Waiuku
+NA10C/1085,"11 Matai Street, Waiuku, Auckland - Franklin",11 Matai Street,Waiuku
+NA10C/1084,"13 Matai Street, Waiuku, Auckland - Franklin",13 Matai Street,Waiuku
+NA10C/1081,"19 Matai Street, Waiuku, Auckland - Franklin",19 Matai Street,Waiuku
+NA10C/1080,"21 Matai Street, Waiuku, Auckland - Franklin",21 Matai Street,Waiuku
+NA10C/1079,"23 Matai Street, Waiuku, Auckland - Franklin",23 Matai Street,Waiuku
+NA10C/1074,"9 Tawa Place, Waiuku, Auckland - Franklin",9 Tawa Place,Waiuku
+NA10C/1075,"7 Tawa Place, Waiuku, Auckland - Franklin",7 Tawa Place,Waiuku
+NA10C/1076,"5 Tawa Place, Waiuku, Auckland - Franklin",5 Tawa Place,Waiuku
+NA10C/1078,"1 Tawa Place, Waiuku, Auckland - Franklin",1 Tawa Place,Waiuku
+NA10C/1096,"86 Kitchener Road, Waiuku, Auckland - Franklin",86 Kitchener Road,Waiuku
+NA10C/1097,"88 Kitchener Road, Waiuku, Auckland - Franklin",88 Kitchener Road,Waiuku
+NA10C/1098,"90 Kitchener Road, Waiuku, Auckland - Franklin",90 Kitchener Road,Waiuku
+NA10C/1099,"92 Kitchener Road, Waiuku, Auckland - Franklin",92 Kitchener Road,Waiuku
+NA10C/1100,"94 Kitchener Road, Waiuku, Auckland - Franklin",94 Kitchener Road,Waiuku
+NA10C/1101,"96 Kitchener Road, Waiuku, Auckland - Franklin",96 Kitchener Road,Waiuku
+NA10C/1102,"98 Kitchener Road, Waiuku, Auckland - Franklin",98 Kitchener Road,Waiuku
+NA10C/1103,"100 Kitchener Road, Waiuku, Auckland - Franklin",100 Kitchener Road,Waiuku
+NA10C/1104,"102 Kitchener Road, Waiuku, Auckland - Franklin",102 Kitchener Road,Waiuku
+NA10C/359,"62 Hebron Road, Waiake, Auckland - North Shore",62 Hebron Road,Waiake
+NA10C/609,"8 Oban Road, Browns Bay, Auckland - North Shore",8 Oban Road,Browns Bay
+NA10C/391,"49 Rothesay Bay Road, Rothesay Bay, Auckland - North Shore",49 Rothesay Bay Road,Rothesay Bay
+NA10C/391,"47 Rothesay Bay Road, Rothesay Bay, Auckland - North Shore",47 Rothesay Bay Road,Rothesay Bay
+NA10C/940,"121 Churchill Road, Rothesay Bay, Auckland - North Shore",121 Churchill Road,Rothesay Bay
+NA10C/774,"5a Penzance Road, Mairangi Bay, Auckland - North Shore",5a Penzance Road,Mairangi Bay
+NA10C/773,"5 Penzance Road, Mairangi Bay, Auckland - North Shore",5 Penzance Road,Mairangi Bay
+NA10C/302,"21 Bournemouth Terrace, Murrays Bay, Auckland - North Shore",21 Bournemouth Terrace,Murrays Bay
+NA10C/1303,"65 Lyons Avenue, Murrays Bay, Auckland - North Shore",65 Lyons Avenue,Murrays Bay
+NA10C/1304,"63 Lyons Avenue, Murrays Bay, Auckland - North Shore",63 Lyons Avenue,Murrays Bay
+NA10C/926,"28 Aotearoa Terrace, Murrays Bay, Auckland - North Shore",28 Aotearoa Terrace,Murrays Bay
+NA10C/927,"7 Rossmore Terrace, Murrays Bay, Auckland - North Shore",7 Rossmore Terrace,Murrays Bay
+NA10C/936,"22a Glencoe Road, Browns Bay, Auckland - North Shore",22a Glencoe Road,Browns Bay
+NA10C/935,"22 Glencoe Road, Browns Bay, Auckland - North Shore",22 Glencoe Road,Browns Bay
+NA10C/797,"115a Stredwick Drive, Torbay, Auckland - North Shore",115a Stredwick Drive,Torbay
+NA10C/1296,"2 Tapu Road, Huapai, Auckland - Rodney",2 Tapu Road,Huapai
+NA10C/1295,"4 Tapu Road, Huapai, Auckland - Rodney",4 Tapu Road,Huapai
+NA10C/1294,"6 Tapu Road, Huapai, Auckland - Rodney",6 Tapu Road,Huapai
+NA10C/1293,"8 Tapu Road, Huapai, Auckland - Rodney",8 Tapu Road,Huapai
+NA10C/1292,"10 Tapu Road, Huapai, Auckland - Rodney",10 Tapu Road,Huapai
+NA10C/978,"2 Berdinner Road, Stanmore Bay, Auckland - Rodney",2 Berdinner Road,Stanmore Bay
+NA10C/979,"4 Berdinner Road, Stanmore Bay, Auckland - Rodney",4 Berdinner Road,Stanmore Bay
+NA10C/980,"2 Kathy Terrace, Stanmore Bay, Auckland - Rodney",2 Kathy Terrace,Stanmore Bay
+NA10C/982,"6 Kathy Terrace, Stanmore Bay, Auckland - Rodney",6 Kathy Terrace,Stanmore Bay
+NA10C/983,"8 Kathy Terrace, Stanmore Bay, Auckland - Rodney",8 Kathy Terrace,Stanmore Bay
+NA10C/984,"10 Kathy Terrace, Stanmore Bay, Auckland - Rodney",10 Kathy Terrace,Stanmore Bay
+NA10C/985,"12 Kathy Terrace, Stanmore Bay, Auckland - Rodney",12 Kathy Terrace,Stanmore Bay
+NA10C/987,"16 Kathy Terrace, Stanmore Bay, Auckland - Rodney",16 Kathy Terrace,Stanmore Bay
+NA10C/988,"18 Kathy Terrace, Stanmore Bay, Auckland - Rodney",18 Kathy Terrace,Stanmore Bay
+NA10C/989,"20 Kathy Terrace, Stanmore Bay, Auckland - Rodney",20 Kathy Terrace,Stanmore Bay
+NA10C/991,"24 Kathy Terrace, Stanmore Bay, Auckland - Rodney",24 Kathy Terrace,Stanmore Bay
+NA10C/992,"26 Kathy Terrace, Stanmore Bay, Auckland - Rodney",26 Kathy Terrace,Stanmore Bay
+NA10C/993,"25 Kathy Terrace, Stanmore Bay, Auckland - Rodney",25 Kathy Terrace,Stanmore Bay
+NA10C/1005,"1 Berdinner Road, Stanmore Bay, Auckland - Rodney",1 Berdinner Road,Stanmore Bay
+NA10C/1006,"3 Berdinner Road, Stanmore Bay, Auckland - Rodney",3 Berdinner Road,Stanmore Bay
+NA10C/1007,"5 Berdinner Road, Stanmore Bay, Auckland - Rodney",5 Berdinner Road,Stanmore Bay
+NA10C/1004,"1 Kathy Terrace, Stanmore Bay, Auckland - Rodney",1 Kathy Terrace,Stanmore Bay
+NA10C/999,"13 Kathy Terrace, Stanmore Bay, Auckland - Rodney",13 Kathy Terrace,Stanmore Bay
+NA10C/1002,"5 Kathy Terrace, Stanmore Bay, Auckland - Rodney",5 Kathy Terrace,Stanmore Bay
+NA10C/1001,"7 Kathy Terrace, Stanmore Bay, Auckland - Rodney",7 Kathy Terrace,Stanmore Bay
+NA10C/998,"15 Kathy Terrace, Stanmore Bay, Auckland - Rodney",15 Kathy Terrace,Stanmore Bay
+NA10C/997,"17 Kathy Terrace, Stanmore Bay, Auckland - Rodney",17 Kathy Terrace,Stanmore Bay
+NA10C/996,"19 Kathy Terrace, Stanmore Bay, Auckland - Rodney",19 Kathy Terrace,Stanmore Bay
+NA10C/995,"21 Kathy Terrace, Stanmore Bay, Auckland - Rodney",21 Kathy Terrace,Stanmore Bay
+NA10C/994,"23 Kathy Terrace, Stanmore Bay, Auckland - Rodney",23 Kathy Terrace,Stanmore Bay
+NA10C/636,"796 East Coast Road, Oteha, Auckland - North Shore",796 East Coast Road,Oteha
+NA10C/435,"33 Beatrice Avenue, Hillcrest, Auckland - North Shore",33 Beatrice Avenue,Hillcrest
+NA10C/434,"35 Beatrice Avenue, Hillcrest, Auckland - North Shore",35 Beatrice Avenue,Hillcrest
+NA10C/432,"39 Beatrice Avenue, Hillcrest, Auckland - North Shore",39 Beatrice Avenue,Hillcrest
+NA10C/431,"41 Beatrice Avenue, Hillcrest, Auckland - North Shore",41 Beatrice Avenue,Hillcrest
+NA10C/429,"45 Beatrice Avenue, Hillcrest, Auckland - North Shore",45 Beatrice Avenue,Hillcrest
+NA10C/440,"22 Beatrice Avenue, Hillcrest, Auckland - North Shore",22 Beatrice Avenue,Hillcrest
+NA10C/438,"3 Nea Place, Hillcrest, Auckland - North Shore",3 Nea Place,Hillcrest
+NA10C/1415,"44 Archers Road, Glenfield, Auckland - North Shore",44 Archers Road,Glenfield
+NA10C/1414,"2 Agincourt Street, Glenfield, Auckland - North Shore",2 Agincourt Street,Glenfield
+NA10C/1412,"50 Archers Road, Glenfield, Auckland - North Shore",50 Archers Road,Glenfield
+NA10C/1413,"1 Agincourt Street, Glenfield, Auckland - North Shore",1 Agincourt Street,Glenfield
+NA10C/1442,"3 Agincourt Street, Glenfield, Auckland - North Shore",3 Agincourt Street,Glenfield
+NA10C/1441,"5 Agincourt Street, Glenfield, Auckland - North Shore",5 Agincourt Street,Glenfield
+NA10C/1440,"7 Agincourt Street, Glenfield, Auckland - North Shore",7 Agincourt Street,Glenfield
+NA10C/1439,"9 Agincourt Street, Glenfield, Auckland - North Shore",9 Agincourt Street,Glenfield
+NA10C/1436,"15 Agincourt Street, Glenfield, Auckland - North Shore",15 Agincourt Street,Glenfield
+NA10C/1435,"17 Agincourt Street, Glenfield, Auckland - North Shore",17 Agincourt Street,Glenfield
+NA10C/1434,"19 Agincourt Street, Glenfield, Auckland - North Shore",19 Agincourt Street,Glenfield
+NA10C/1432,"23 Agincourt Street, Glenfield, Auckland - North Shore",23 Agincourt Street,Glenfield
+NA10C/1431,"25 Agincourt Street, Glenfield, Auckland - North Shore",25 Agincourt Street,Glenfield
+NA10C/1430,"27 Agincourt Street, Glenfield, Auckland - North Shore",27 Agincourt Street,Glenfield
+NA10C/1429,"29 Agincourt Street, Glenfield, Auckland - North Shore",29 Agincourt Street,Glenfield
+NA10C/1416,"4 Agincourt Street, Glenfield, Auckland - North Shore",4 Agincourt Street,Glenfield
+NA10C/1421,"14 Agincourt Street, Glenfield, Auckland - North Shore",14 Agincourt Street,Glenfield
+NA10C/1422,"16 Agincourt Street, Glenfield, Auckland - North Shore",16 Agincourt Street,Glenfield
+NA10C/1424,"20 Agincourt Street, Glenfield, Auckland - North Shore",20 Agincourt Street,Glenfield
+NA10C/1425,"22 Agincourt Street, Glenfield, Auckland - North Shore",22 Agincourt Street,Glenfield
+NA10C/1426,"24 Agincourt Street, Glenfield, Auckland - North Shore",24 Agincourt Street,Glenfield
+NA10C/1427,"26 Agincourt Street, Glenfield, Auckland - North Shore",26 Agincourt Street,Glenfield
+NA10C/1428,"28 Agincourt Street, Glenfield, Auckland - North Shore",28 Agincourt Street,Glenfield
+NA10C/339,"50 Eban Avenue, Hillcrest, Auckland - North Shore",50 Eban Avenue,Hillcrest
+NA10C/341,"54 Eban Avenue, Hillcrest, Auckland - North Shore",54 Eban Avenue,Hillcrest
+NA10C/338,"48 Eban Avenue, Hillcrest, Auckland - North Shore",48 Eban Avenue,Hillcrest
+NA10C/337,"140 Moore Street, Hillcrest, Auckland - North Shore",140 Moore Street,Hillcrest
+NA10C/336,"138 Moore Street, Hillcrest, Auckland - North Shore",138 Moore Street,Hillcrest
+NA10C/335,"136 Moore Street, Hillcrest, Auckland - North Shore",136 Moore Street,Hillcrest
+NA10C/334,"134 Moore Street, Hillcrest, Auckland - North Shore",134 Moore Street,Hillcrest
+NA10C/333,"132 Moore Street, Hillcrest, Auckland - North Shore",132 Moore Street,Hillcrest
+NA10C/332,"130 Moore Street, Hillcrest, Auckland - North Shore",130 Moore Street,Hillcrest
+NA10C/331,"128 Moore Street, Hillcrest, Auckland - North Shore",128 Moore Street,Hillcrest
+NA10C/330,"126 Moore Street, Hillcrest, Auckland - North Shore",126 Moore Street,Hillcrest
+NA10C/329,"124 Moore Street, Hillcrest, Auckland - North Shore",124 Moore Street,Hillcrest
+NA10C/328,"122 Moore Street, Hillcrest, Auckland - North Shore",122 Moore Street,Hillcrest
+NA10C/327,"120 Moore Street, Hillcrest, Auckland - North Shore",120 Moore Street,Hillcrest
+NA10C/326,"118 Moore Street, Hillcrest, Auckland - North Shore",118 Moore Street,Hillcrest
+NA10C/325,"116 Moore Street, Hillcrest, Auckland - North Shore",116 Moore Street,Hillcrest
+NA10C/324,"114 Moore Street, Hillcrest, Auckland - North Shore",114 Moore Street,Hillcrest
+NA10C/323,"112 Moore Street, Hillcrest, Auckland - North Shore",112 Moore Street,Hillcrest
+NA10C/322,"108 Moore Street, Hillcrest, Auckland - North Shore",108 Moore Street,Hillcrest
+NA10C/321,"106 Moore Street, Hillcrest, Auckland - North Shore",106 Moore Street,Hillcrest
+NA10C/300,"44 Eban Avenue, Hillcrest, Auckland - North Shore",44 Eban Avenue,Hillcrest
+NA10C/303,"147 Moore Street, Hillcrest, Auckland - North Shore",147 Moore Street,Hillcrest
+NA10C/304,"145 Moore Street, Hillcrest, Auckland - North Shore",145 Moore Street,Hillcrest
+NA10C/305,"143 Moore Street, Hillcrest, Auckland - North Shore",143 Moore Street,Hillcrest
+NA10C/306,"141 Moore Street, Hillcrest, Auckland - North Shore",141 Moore Street,Hillcrest
+NA10C/307,"139 Moore Street, Hillcrest, Auckland - North Shore",139 Moore Street,Hillcrest
+NA10C/308,"137 Moore Street, Hillcrest, Auckland - North Shore",137 Moore Street,Hillcrest
+NA10C/310,"133 Moore Street, Hillcrest, Auckland - North Shore",133 Moore Street,Hillcrest
+NA10C/311,"131 Moore Street, Hillcrest, Auckland - North Shore",131 Moore Street,Hillcrest
+NA10C/313,"127 Moore Street, Hillcrest, Auckland - North Shore",127 Moore Street,Hillcrest
+NA10C/314,"125 Moore Street, Hillcrest, Auckland - North Shore",125 Moore Street,Hillcrest
+NA10C/315,"123 Moore Street, Hillcrest, Auckland - North Shore",123 Moore Street,Hillcrest
+NA10C/316,"121 Moore Street, Hillcrest, Auckland - North Shore",121 Moore Street,Hillcrest
+NA10C/317,"119 Moore Street, Hillcrest, Auckland - North Shore",119 Moore Street,Hillcrest
+NA10C/318,"117 Moore Street, Hillcrest, Auckland - North Shore",117 Moore Street,Hillcrest
+NA10C/319,"115 Moore Street, Hillcrest, Auckland - North Shore",115 Moore Street,Hillcrest
+NA10C/320,"113 Moore Street, Hillcrest, Auckland - North Shore",113 Moore Street,Hillcrest
+NA10C/644,"38 Makora Road, Massey, Auckland - Waitakere",38 Makora Road,Massey
+NA10C/642,"5 Helleur Road, Massey, Auckland - Waitakere",5 Helleur Road,Massey
+NA10C/641,"5a Helleur Road, Massey, Auckland - Waitakere",5a Helleur Road,Massey
+NA10C/640,"46 Makora Road, Massey, Auckland - Waitakere",46 Makora Road,Massey
+NA10C/645,"7 Helleur Road, Massey, Auckland - Waitakere",7 Helleur Road,Massey
+NA10C/646,"9 Helleur Road, Massey, Auckland - Waitakere",9 Helleur Road,Massey
+NA10C/647,"11 Helleur Road, Massey, Auckland - Waitakere",11 Helleur Road,Massey
+NA10C/648,"13 Helleur Road, Massey, Auckland - Waitakere",13 Helleur Road,Massey
+NA10C/649,"15 Helleur Road, Massey, Auckland - Waitakere",15 Helleur Road,Massey
+NA10C/650,"17 Helleur Road, Massey, Auckland - Waitakere",17 Helleur Road,Massey
+NA10C/651,"19 Helleur Road, Massey, Auckland - Waitakere",19 Helleur Road,Massey
+NA10C/652,"21 Helleur Road, Massey, Auckland - Waitakere",21 Helleur Road,Massey
+NA10C/653,"23 Helleur Road, Massey, Auckland - Waitakere",23 Helleur Road,Massey
+NA10C/654,"25 Helleur Road, Massey, Auckland - Waitakere",25 Helleur Road,Massey
+NA10C/655,"4 Helleur Road, Massey, Auckland - Waitakere",4 Helleur Road,Massey
+NA10C/657,"8 Helleur Road, Massey, Auckland - Waitakere",8 Helleur Road,Massey
+NA10C/658,"10 Helleur Road, Massey, Auckland - Waitakere",10 Helleur Road,Massey
+NA10C/678,"70 Royal Road, Massey, Auckland - Waitakere",70 Royal Road,Massey
+NA10C/680,"74 Royal Road, Massey, Auckland - Waitakere",74 Royal Road,Massey
+NA10C/677,"68 Royal Road, Massey, Auckland - Waitakere",68 Royal Road,Massey
+NA10C/679,"72 Royal Road, Massey, Auckland - Waitakere",72 Royal Road,Massey
+NA10C/676,"66 Royal Road, Massey, Auckland - Waitakere",66 Royal Road,Massey
+NA10C/675,"64 Royal Road, Massey, Auckland - Waitakere",64 Royal Road,Massey
+NA10C/674,"62 Royal Road, Massey, Auckland - Waitakere",62 Royal Road,Massey
+NA10C/1308,"146 Pooks Road, Swanson, Auckland - Waitakere",146 Pooks Road,Swanson
+NA10C/346,"102 Te Henga Road, Waitakere, Auckland - Waitakere",102 Te Henga Road,Waitakere
+NA10C/660,"109 Astley Avenue, New Lynn, Auckland - Waitakere",109 Astley Avenue,New Lynn
+NA10C/661,"107 Astley Avenue, New Lynn, Auckland - Waitakere",107 Astley Avenue,New Lynn
+NA10C/720,"42 Lantana Road, Green Bay, Auckland - Waitakere",42 Lantana Road,Green Bay
+NA10C/721,"40 Lantana Road, Green Bay, Auckland - Waitakere",40 Lantana Road,Green Bay
+NA10C/722,"38 Lantana Road, Green Bay, Auckland - Waitakere",38 Lantana Road,Green Bay
+NA10C/723,"36 Lantana Road, Green Bay, Auckland - Waitakere",36 Lantana Road,Green Bay
+NA10C/724,"34 Lantana Road, Green Bay, Auckland - Waitakere",34 Lantana Road,Green Bay
+NA10C/725,"32 Lantana Road, Green Bay, Auckland - Waitakere",32 Lantana Road,Green Bay
+NA10C/726,"30 Lantana Road, Green Bay, Auckland - Waitakere",30 Lantana Road,Green Bay
+NA10C/727,"28 Lantana Road, Green Bay, Auckland - Waitakere",28 Lantana Road,Green Bay
+NA10C/728,"26 Lantana Road, Green Bay, Auckland - Waitakere",26 Lantana Road,Green Bay
+NA10C/730,"22 Lantana Road, Green Bay, Auckland - Waitakere",22 Lantana Road,Green Bay
+NA10C/731,"20 Lantana Road, Green Bay, Auckland - Waitakere",20 Lantana Road,Green Bay
+NA10C/732,"18 Lantana Road, Green Bay, Auckland - Waitakere",18 Lantana Road,Green Bay
+NA10C/733,"16 Lantana Road, Green Bay, Auckland - Waitakere",16 Lantana Road,Green Bay
+NA10C/734,"14 Lantana Road, Green Bay, Auckland - Waitakere",14 Lantana Road,Green Bay
+NA10C/737,"12 Lantana Road, Green Bay, Auckland - Waitakere",12 Lantana Road,Green Bay
+NA10C/735,"10 Lantana Road, Green Bay, Auckland - Waitakere",10 Lantana Road,Green Bay
+NA10C/736,"8 Lantana Road, Green Bay, Auckland - Waitakere",8 Lantana Road,Green Bay
+NA10C/705,"5 Lantana Road, Green Bay, Auckland - Waitakere",5 Lantana Road,Green Bay
+NA10C/706,"7 Lantana Road, Green Bay, Auckland - Waitakere",7 Lantana Road,Green Bay
+NA10C/707,"9 Lantana Road, Green Bay, Auckland - Waitakere",9 Lantana Road,Green Bay
+NA10C/710,"15 Lantana Road, Green Bay, Auckland - Waitakere",15 Lantana Road,Green Bay
+NA10C/711,"17 Lantana Road, Green Bay, Auckland - Waitakere",17 Lantana Road,Green Bay
+NA10C/712,"19 Lantana Road, Green Bay, Auckland - Waitakere",19 Lantana Road,Green Bay
+NA10C/714,"23 Lantana Road, Green Bay, Auckland - Waitakere",23 Lantana Road,Green Bay
+NA10C/715,"25 Lantana Road, Green Bay, Auckland - Waitakere",25 Lantana Road,Green Bay
+NA10C/716,"27 Lantana Road, Green Bay, Auckland - Waitakere",27 Lantana Road,Green Bay
+NA10C/717,"29 Lantana Road, Green Bay, Auckland - Waitakere",29 Lantana Road,Green Bay
+NA10C/718,"31 Lantana Road, Green Bay, Auckland - Waitakere",31 Lantana Road,Green Bay
+NA10C/719,"33 Lantana Road, Green Bay, Auckland - Waitakere",33 Lantana Road,Green Bay
+NA10C/364,"15 Railside Avenue, Henderson, Auckland - Waitakere",15 Railside Avenue,Henderson
+NA10C/665,"61a Woodglen Road, Glen Eden, Auckland - Waitakere",61a Woodglen Road,Glen Eden
+NA10C/664,"63a Woodglen Road, Glen Eden, Auckland - Waitakere",63a Woodglen Road,Glen Eden
+NA10C/669,"45a Glengarry Road, Glen Eden, Auckland - Waitakere",45a Glengarry Road,Glen Eden
+NA10C/670,"45b Glengarry Road, Glen Eden, Auckland - Waitakere",45b Glengarry Road,Glen Eden
+NA10C/598,"223 Victory Road, Laingholm, Auckland - Waitakere",223 Victory Road,Laingholm
+NA10C/521,"221 Victory Road, Laingholm, Auckland - Waitakere",221 Victory Road,Laingholm
+NA10C/599,"223a Victory Road, Laingholm, Auckland - Waitakere",223a Victory Road,Laingholm
+NA10C/601,"225b Victory Road, Laingholm, Auckland - Waitakere",225b Victory Road,Laingholm
+NA10C/602,"225a Victory Road, Laingholm, Auckland - Waitakere",225a Victory Road,Laingholm
+NA10C/522,"20 Maich Road, Manurewa, Auckland - Manukau",20 Maich Road,Manurewa
+NA10C/947,"140 Great South Road, Manurewa, Auckland - Manukau",140 Great South Road,Manurewa
+NA10C/948,"140a Great South Road, Manurewa, Auckland - Manukau",140a Great South Road,Manurewa
+NA10C/409,"77 Rogers Road, Manurewa, Auckland - Manukau",77 Rogers Road,Manurewa
+NA10C/1257,"11 Keeney Court, Papakura, Auckland - Papakura",11 Keeney Court,Papakura
+NA10C/1256,"13 Keeney Court, Papakura, Auckland - Papakura",13 Keeney Court,Papakura
+NA10C/1254,"17 Keeney Court, Papakura, Auckland - Papakura",17 Keeney Court,Papakura
+NA10C/1253,"19 Keeney Court, Papakura, Auckland - Papakura",19 Keeney Court,Papakura
+NA10C/1252,"21 Keeney Court, Papakura, Auckland - Papakura",21 Keeney Court,Papakura
+NA10C/1251,"23 Keeney Court, Papakura, Auckland - Papakura",23 Keeney Court,Papakura
+NA10C/1250,"25 Keeney Court, Papakura, Auckland - Papakura",25 Keeney Court,Papakura
+NA10C/1248,"10 Keeney Court, Papakura, Auckland - Papakura",10 Keeney Court,Papakura
+NA10C/1249,"12 Keeney Court, Papakura, Auckland - Papakura",12 Keeney Court,Papakura
+NA10C/428,"19 Fairview Avenue, Opaheke, Auckland - Papakura",19 Fairview Avenue,Opaheke
+NA10C/427,"21 Fairview Avenue, Opaheke, Auckland - Papakura",21 Fairview Avenue,Opaheke
+NA10C/426,"23 Fairview Avenue, Opaheke, Auckland - Papakura",23 Fairview Avenue,Opaheke
+NA10C/425,"25 Fairview Avenue, Opaheke, Auckland - Papakura",25 Fairview Avenue,Opaheke
+NA10C/424,"27 Fairview Avenue, Opaheke, Auckland - Papakura",27 Fairview Avenue,Opaheke
+NA10C/423,"29 Fairview Avenue, Opaheke, Auckland - Papakura",29 Fairview Avenue,Opaheke
+NA10C/422,"31 Fairview Avenue, Opaheke, Auckland - Papakura",31 Fairview Avenue,Opaheke
+NA10C/421,"33 Fairview Avenue, Opaheke, Auckland - Papakura",33 Fairview Avenue,Opaheke
+NA10C/420,"35 Fairview Avenue, Opaheke, Auckland - Papakura",35 Fairview Avenue,Opaheke
+NA10C/419,"37 Fairview Avenue, Opaheke, Auckland - Papakura",37 Fairview Avenue,Opaheke
+NA10C/418,"39 Fairview Avenue, Opaheke, Auckland - Papakura",39 Fairview Avenue,Opaheke
+NA10C/412,"18 Fairview Avenue, Opaheke, Auckland - Papakura",18 Fairview Avenue,Opaheke
+NA10C/413,"20 Fairview Avenue, Opaheke, Auckland - Papakura",20 Fairview Avenue,Opaheke
+NA10C/414,"22 Fairview Avenue, Opaheke, Auckland - Papakura",22 Fairview Avenue,Opaheke
+NA10C/415,"24 Fairview Avenue, Opaheke, Auckland - Papakura",24 Fairview Avenue,Opaheke
+NA10C/416,"26 Fairview Avenue, Opaheke, Auckland - Papakura",26 Fairview Avenue,Opaheke
+NA10C/417,"28 Fairview Avenue, Opaheke, Auckland - Papakura",28 Fairview Avenue,Opaheke
+NA10C/803,"70 Takutai Avenue, Half Moon Bay, Auckland - Manukau",70 Takutai Avenue,Half Moon Bay
+NA10C/792,"62 Takutai Avenue, Half Moon Bay, Auckland - Manukau",62 Takutai Avenue,Half Moon Bay
+NA10C/787,"38 Sea Spray Drive, Bucklands Beach, Auckland - Manukau",38 Sea Spray Drive,Bucklands Beach
+NA10C/788,"40 Sea Spray Drive, Bucklands Beach, Auckland - Manukau",40 Sea Spray Drive,Bucklands Beach
+NA10C/789,"42 Sea Spray Drive, Bucklands Beach, Auckland - Manukau",42 Sea Spray Drive,Bucklands Beach
+NA10C/790,"44 Sea Spray Drive, Bucklands Beach, Auckland - Manukau",44 Sea Spray Drive,Bucklands Beach
+NA10C/802,"33 Sorrel Crescent, Bucklands Beach, Auckland - Manukau",33 Sorrel Crescent,Bucklands Beach
+NA10C/802,"33w Sorrel Crescent, Bucklands Beach, Auckland - Manukau",33w Sorrel Crescent,Bucklands Beach
+NA10C/801,"35 Sorrel Crescent, Bucklands Beach, Auckland - Manukau",35 Sorrel Crescent,Bucklands Beach
+NA10C/800,"37 Sorrel Crescent, Bucklands Beach, Auckland - Manukau",37 Sorrel Crescent,Bucklands Beach
+NA10C/798,"41 Sorrel Crescent, Bucklands Beach, Auckland - Manukau",41 Sorrel Crescent,Bucklands Beach
+NA10C/797,"43 Sorrel Crescent, Bucklands Beach, Auckland - Manukau",43 Sorrel Crescent,Bucklands Beach
+NA10C/813,"58 Sorrel Crescent, Bucklands Beach, Auckland - Manukau",58 Sorrel Crescent,Bucklands Beach
+NA10C/366,"134 Macleans Road, Bucklands Beach, Auckland - Manukau",134 Macleans Road,Bucklands Beach
+NA10C/36,"3 Roseburn Place, Pakuranga, Auckland - Manukau",3 Roseburn Place,Pakuranga
+NA10C/38,"7 Roseburn Place, Pakuranga, Auckland - Manukau",7 Roseburn Place,Pakuranga
+NA10C/40,"11 Roseburn Place, Pakuranga, Auckland - Manukau",11 Roseburn Place,Pakuranga
+NA10C/41,"13 Roseburn Place, Pakuranga, Auckland - Manukau",13 Roseburn Place,Pakuranga
+NA10C/42,"15 Roseburn Place, Pakuranga, Auckland - Manukau",15 Roseburn Place,Pakuranga
+NA10C/47,"8 Roseburn Place, Pakuranga, Auckland - Manukau",8 Roseburn Place,Pakuranga
+NA10C/45,"12 Roseburn Place, Pakuranga, Auckland - Manukau",12 Roseburn Place,Pakuranga
+NA10C/67,"55 Cardiff Road, Pakuranga, Auckland - Manukau",55 Cardiff Road,Pakuranga
+NA10C/72,"65 Cardiff Road, Pakuranga, Auckland - Manukau",65 Cardiff Road,Pakuranga
+NA10C/75,"71 Cardiff Road, Pakuranga, Auckland - Manukau",71 Cardiff Road,Pakuranga
+NA10C/77,"75 Cardiff Road, Pakuranga, Auckland - Manukau",75 Cardiff Road,Pakuranga
+NA10C/78,"77 Cardiff Road, Pakuranga, Auckland - Manukau",77 Cardiff Road,Pakuranga
+NA10C/63,"80 Cardiff Road, Pakuranga, Auckland - Manukau",80 Cardiff Road,Pakuranga
+NA10C/60,"86 Cardiff Road, Pakuranga, Auckland - Manukau",86 Cardiff Road,Pakuranga
+NA10C/59,"88 Cardiff Road, Pakuranga, Auckland - Manukau",88 Cardiff Road,Pakuranga
+NA10C/58,"90 Cardiff Road, Pakuranga, Auckland - Manukau",90 Cardiff Road,Pakuranga
+NA10C/56,"94 Cardiff Road, Pakuranga, Auckland - Manukau",94 Cardiff Road,Pakuranga
+NA10C/55,"96 Cardiff Road, Pakuranga, Auckland - Manukau",96 Cardiff Road,Pakuranga
+NA10C/54,"98 Cardiff Road, Pakuranga, Auckland - Manukau",98 Cardiff Road,Pakuranga
+NA10C/53,"100 Cardiff Road, Pakuranga, Auckland - Manukau",100 Cardiff Road,Pakuranga
+NA10C/52,"102 Cardiff Road, Pakuranga, Auckland - Manukau",102 Cardiff Road,Pakuranga
+NA10C/51,"104 Cardiff Road, Pakuranga, Auckland - Manukau",104 Cardiff Road,Pakuranga
+NA10C/50,"6 Marriott Road, Pakuranga, Auckland - Manukau",6 Marriott Road,Pakuranga
+NA10C/929,"8 Miramar Place, Pakuranga, Auckland - Manukau",8 Miramar Place,Pakuranga
+NA10C/930,"10 Miramar Place, Pakuranga, Auckland - Manukau",10 Miramar Place,Pakuranga
+NA10C/931,"10a Miramar Place, Pakuranga, Auckland - Manukau",10a Miramar Place,Pakuranga
+NA10C/932,"12 Miramar Place, Pakuranga, Auckland - Manukau",12 Miramar Place,Pakuranga
+NA10C/605,"44 Udys Road, Pakuranga, Auckland - Manukau",44 Udys Road,Pakuranga
+NA10C/606,"46 Udys Road, Pakuranga, Auckland - Manukau",46 Udys Road,Pakuranga
+NA10C/608,"50 Udys Road, Pakuranga, Auckland - Manukau",50 Udys Road,Pakuranga
+NA10C/775,"62 Reeves Road, Pakuranga Heights, Auckland - Manukau",62 Reeves Road,Pakuranga Heights
+NA10C/776,"64 Reeves Road, Pakuranga Heights, Auckland - Manukau",64 Reeves Road,Pakuranga Heights
+NA10C/777,"66 Reeves Road, Pakuranga Heights, Auckland - Manukau",66 Reeves Road,Pakuranga Heights
+NA10C/778,"68 Reeves Road, Pakuranga Heights, Auckland - Manukau",68 Reeves Road,Pakuranga Heights
+NA10C/779,"70 Reeves Road, Pakuranga Heights, Auckland - Manukau",70 Reeves Road,Pakuranga Heights
+NA10C/780,"2 Fleur Avenue, Pakuranga Heights, Auckland - Manukau",2 Fleur Avenue,Pakuranga Heights
+NA10C/749,"1/84 Frank Nobilo Drive, Golflands, Auckland - Manukau",1/84 Frank Nobilo Drive,Golflands
+NA10C/118,"8 Maldon Court, Dannemora, Auckland - Manukau",8 Maldon Court,Dannemora
+NA10C/26,"10 Mahunga Drive, Mangere Bridge, Auckland - Manukau",10 Mahunga Drive,Mangere Bridge
+NA10C/34,"17 Mahunga Drive, Mangere Bridge, Auckland - Manukau",17 Mahunga Drive,Mangere Bridge
+NA10C/1298,"1 Tanners Road, Mangere Bridge, Auckland - Manukau",1 Tanners Road,Mangere Bridge
+NA10C/1297,"3 Tanners Road, Mangere Bridge, Auckland - Manukau",3 Tanners Road,Mangere Bridge
+NA10C/219,"41 Valiant Street, Mangere, Auckland - Manukau",41 Valiant Street,Mangere
+NA10C/220,"43 Valiant Street, Mangere, Auckland - Manukau",43 Valiant Street,Mangere
+NA10C/223,"49 Valiant Street, Mangere, Auckland - Manukau",49 Valiant Street,Mangere
+NA10C/190,"53 Valiant Street, Mangere, Auckland - Manukau",53 Valiant Street,Mangere
+NA10C/189,"55 Valiant Street, Mangere, Auckland - Manukau",55 Valiant Street,Mangere
+NA10C/188,"57 Valiant Street, Mangere, Auckland - Manukau",57 Valiant Street,Mangere
+NA10C/187,"59 Valiant Street, Mangere, Auckland - Manukau",59 Valiant Street,Mangere
+NA10C/226,"40 Valiant Street, Mangere, Auckland - Manukau",40 Valiant Street,Mangere
+NA10C/233,"44 Valiant Street, Mangere, Auckland - Manukau",44 Valiant Street,Mangere
+NA10C/234,"46 Valiant Street, Mangere, Auckland - Manukau",46 Valiant Street,Mangere
+NA10C/235,"48 Valiant Street, Mangere, Auckland - Manukau",48 Valiant Street,Mangere
+NA10C/236,"50 Valiant Street, Mangere, Auckland - Manukau",50 Valiant Street,Mangere
+NA10C/237,"52 Valiant Street, Mangere, Auckland - Manukau",52 Valiant Street,Mangere
+NA10C/238,"54 Valiant Street, Mangere, Auckland - Manukau",54 Valiant Street,Mangere
+NA10C/239,"56 Valiant Street, Mangere, Auckland - Manukau",56 Valiant Street,Mangere
+NA10C/240,"58 Valiant Street, Mangere, Auckland - Manukau",58 Valiant Street,Mangere
+NA10C/241,"60 Valiant Street, Mangere, Auckland - Manukau",60 Valiant Street,Mangere
+NA10C/242,"62 Valiant Street, Mangere, Auckland - Manukau",62 Valiant Street,Mangere
+NA10C/243,"64 Valiant Street, Mangere, Auckland - Manukau",64 Valiant Street,Mangere
+NA10C/244,"66 Valiant Street, Mangere, Auckland - Manukau",66 Valiant Street,Mangere
+NA10C/245,"68 Valiant Street, Mangere, Auckland - Manukau",68 Valiant Street,Mangere
+NA10C/246,"70 Valiant Street, Mangere, Auckland - Manukau",70 Valiant Street,Mangere
+NA10C/247,"72 Valiant Street, Mangere, Auckland - Manukau",72 Valiant Street,Mangere
+NA10C/248,"74 Valiant Street, Mangere, Auckland - Manukau",74 Valiant Street,Mangere
+NA10C/206,"7 Corsair Crescent, Mangere, Auckland - Manukau",7 Corsair Crescent,Mangere
+NA10C/205,"9 Corsair Crescent, Mangere, Auckland - Manukau",9 Corsair Crescent,Mangere
+NA10C/204,"11 Corsair Crescent, Mangere, Auckland - Manukau",11 Corsair Crescent,Mangere
+NA10C/203,"13 Corsair Crescent, Mangere, Auckland - Manukau",13 Corsair Crescent,Mangere
+NA10C/202,"15 Corsair Crescent, Mangere, Auckland - Manukau",15 Corsair Crescent,Mangere
+NA10C/201,"17 Corsair Crescent, Mangere, Auckland - Manukau",17 Corsair Crescent,Mangere
+NA10C/200,"19 Corsair Crescent, Mangere, Auckland - Manukau",19 Corsair Crescent,Mangere
+NA10C/199,"21 Corsair Crescent, Mangere, Auckland - Manukau",21 Corsair Crescent,Mangere
+NA10C/198,"23 Corsair Crescent, Mangere, Auckland - Manukau",23 Corsair Crescent,Mangere
+NA10C/197,"25 Corsair Crescent, Mangere, Auckland - Manukau",25 Corsair Crescent,Mangere
+NA10C/195,"29 Corsair Crescent, Mangere, Auckland - Manukau",29 Corsair Crescent,Mangere
+NA10C/193,"33 Corsair Crescent, Mangere, Auckland - Manukau",33 Corsair Crescent,Mangere
+NA10C/192,"35 Corsair Crescent, Mangere, Auckland - Manukau",35 Corsair Crescent,Mangere
+NA10C/191,"37 Corsair Crescent, Mangere, Auckland - Manukau",37 Corsair Crescent,Mangere
+NA10C/217,"2 Corsair Crescent, Mangere, Auckland - Manukau",2 Corsair Crescent,Mangere
+NA10C/215,"6a Corsair Crescent, Mangere, Auckland - Manukau",6a Corsair Crescent,Mangere
+NA10C/214,"8 Corsair Crescent, Mangere, Auckland - Manukau",8 Corsair Crescent,Mangere
+NA10C/210,"16 Corsair Crescent, Mangere, Auckland - Manukau",16 Corsair Crescent,Mangere
+NA10C/209,"18 Corsair Crescent, Mangere, Auckland - Manukau",18 Corsair Crescent,Mangere
+NA10C/225,"20 Corsair Crescent, Mangere, Auckland - Manukau",20 Corsair Crescent,Mangere
+NA10C/224,"22 Corsair Crescent, Mangere, Auckland - Manukau",22 Corsair Crescent,Mangere
+NA10C/232,"1 Caravelle Close, Mangere, Auckland - Manukau",1 Caravelle Close,Mangere
+NA10C/231,"3 Caravelle Close, Mangere, Auckland - Manukau",3 Caravelle Close,Mangere
+NA10C/158,"9 Caravelle Close, Mangere, Auckland - Manukau",9 Caravelle Close,Mangere
+NA10C/157,"11 Caravelle Close, Mangere, Auckland - Manukau",11 Caravelle Close,Mangere
+NA10C/156,"13 Caravelle Close, Mangere, Auckland - Manukau",13 Caravelle Close,Mangere
+NA10C/155,"15 Caravelle Close, Mangere, Auckland - Manukau",15 Caravelle Close,Mangere
+NA10C/154,"17 Caravelle Close, Mangere, Auckland - Manukau",17 Caravelle Close,Mangere
+NA10C/153,"19 Caravelle Close, Mangere, Auckland - Manukau",19 Caravelle Close,Mangere
+NA10C/152,"21 Caravelle Close, Mangere, Auckland - Manukau",21 Caravelle Close,Mangere
+NA10C/151,"23 Caravelle Close, Mangere, Auckland - Manukau",23 Caravelle Close,Mangere
+NA10C/150,"25 Caravelle Close, Mangere, Auckland - Manukau",25 Caravelle Close,Mangere
+NA10C/149,"27 Caravelle Close, Mangere, Auckland - Manukau",27 Caravelle Close,Mangere
+NA10C/148,"29 Caravelle Close, Mangere, Auckland - Manukau",29 Caravelle Close,Mangere
+NA10C/147,"31 Caravelle Close, Mangere, Auckland - Manukau",31 Caravelle Close,Mangere
+NA10C/146,"33 Caravelle Close, Mangere, Auckland - Manukau",33 Caravelle Close,Mangere
+NA10C/145,"35 Caravelle Close, Mangere, Auckland - Manukau",35 Caravelle Close,Mangere
+NA10C/144,"37a Caravelle Close, Mangere, Auckland - Manukau",37a Caravelle Close,Mangere
+NA10C/143,"37 Caravelle Close, Mangere, Auckland - Manukau",37 Caravelle Close,Mangere
+NA10C/142,"39 Caravelle Close, Mangere, Auckland - Manukau",39 Caravelle Close,Mangere
+NA10C/141,"41 Caravelle Close, Mangere, Auckland - Manukau",41 Caravelle Close,Mangere
+NA10C/140,"43 Caravelle Close, Mangere, Auckland - Manukau",43 Caravelle Close,Mangere
+NA10C/139,"45 Caravelle Close, Mangere, Auckland - Manukau",45 Caravelle Close,Mangere
+NA10C/138,"47 Caravelle Close, Mangere, Auckland - Manukau",47 Caravelle Close,Mangere
+NA10C/137,"49 Caravelle Close, Mangere, Auckland - Manukau",49 Caravelle Close,Mangere
+NA10C/136,"51 Caravelle Close, Mangere, Auckland - Manukau",51 Caravelle Close,Mangere
+NA10C/135,"53 Caravelle Close, Mangere, Auckland - Manukau",53 Caravelle Close,Mangere
+NA10C/134,"55 Caravelle Close, Mangere, Auckland - Manukau",55 Caravelle Close,Mangere
+NA10C/228,"6 Caravelle Close, Mangere, Auckland - Manukau",6 Caravelle Close,Mangere
+NA10C/229,"8 Caravelle Close, Mangere, Auckland - Manukau",8 Caravelle Close,Mangere
+NA10C/230,"10 Caravelle Close, Mangere, Auckland - Manukau",10 Caravelle Close,Mangere
+NA10C/254,"54w Valiant Street, Mangere, Auckland - Manukau",54w Valiant Street,Mangere
+NA10C/82,"12 Caravelle Close, Mangere, Auckland - Manukau",12 Caravelle Close,Mangere
+NA10C/83,"14 Caravelle Close, Mangere, Auckland - Manukau",14 Caravelle Close,Mangere
+NA10C/85,"18 Caravelle Close, Mangere, Auckland - Manukau",18 Caravelle Close,Mangere
+NA10C/86,"20 Caravelle Close, Mangere, Auckland - Manukau",20 Caravelle Close,Mangere
+NA10C/87,"22 Caravelle Close, Mangere, Auckland - Manukau",22 Caravelle Close,Mangere
+NA10C/88,"24 Caravelle Close, Mangere, Auckland - Manukau",24 Caravelle Close,Mangere
+NA10C/90,"28 Caravelle Close, Mangere, Auckland - Manukau",28 Caravelle Close,Mangere
+NA10C/91,"30 Caravelle Close, Mangere, Auckland - Manukau",30 Caravelle Close,Mangere
+NA10C/92,"32 Caravelle Close, Mangere, Auckland - Manukau",32 Caravelle Close,Mangere
+NA10C/93,"34 Caravelle Close, Mangere, Auckland - Manukau",34 Caravelle Close,Mangere
+NA10C/94,"36 Caravelle Close, Mangere, Auckland - Manukau",36 Caravelle Close,Mangere
+NA10C/95,"38 Caravelle Close, Mangere, Auckland - Manukau",38 Caravelle Close,Mangere
+NA10C/96,"40 Caravelle Close, Mangere, Auckland - Manukau",40 Caravelle Close,Mangere
+NA10C/97,"42 Caravelle Close, Mangere, Auckland - Manukau",42 Caravelle Close,Mangere
+NA10C/98,"44 Caravelle Close, Mangere, Auckland - Manukau",44 Caravelle Close,Mangere
+NA10C/99,"46 Caravelle Close, Mangere, Auckland - Manukau",46 Caravelle Close,Mangere
+NA10C/100,"48 Caravelle Close, Mangere, Auckland - Manukau",48 Caravelle Close,Mangere
+NA10C/101,"50 Caravelle Close, Mangere, Auckland - Manukau",50 Caravelle Close,Mangere
+NA10C/102,"52 Caravelle Close, Mangere, Auckland - Manukau",52 Caravelle Close,Mangere
+NA10C/103,"54 Caravelle Close, Mangere, Auckland - Manukau",54 Caravelle Close,Mangere
+NA10C/104,"56 Caravelle Close, Mangere, Auckland - Manukau",56 Caravelle Close,Mangere
+NA10C/105,"58 Caravelle Close, Mangere, Auckland - Manukau",58 Caravelle Close,Mangere
+NA10C/106,"60 Caravelle Close, Mangere, Auckland - Manukau",60 Caravelle Close,Mangere
+NA10C/107,"62 Caravelle Close, Mangere, Auckland - Manukau",62 Caravelle Close,Mangere
+NA10C/108,"64 Caravelle Close, Mangere, Auckland - Manukau",64 Caravelle Close,Mangere
+NA10C/166,"68 Caravelle Close, Mangere, Auckland - Manukau",68 Caravelle Close,Mangere
+NA10C/167,"70 Caravelle Close, Mangere, Auckland - Manukau",70 Caravelle Close,Mangere
+NA10C/169,"74 Caravelle Close, Mangere, Auckland - Manukau",74 Caravelle Close,Mangere
+NA10C/170,"76 Caravelle Close, Mangere, Auckland - Manukau",76 Caravelle Close,Mangere
+NA10C/171,"78 Caravelle Close, Mangere, Auckland - Manukau",78 Caravelle Close,Mangere
+NA10C/172,"80 Caravelle Close, Mangere, Auckland - Manukau",80 Caravelle Close,Mangere
+NA10C/174,"84 Caravelle Close, Mangere, Auckland - Manukau",84 Caravelle Close,Mangere
+NA10C/175,"86 Caravelle Close, Mangere, Auckland - Manukau",86 Caravelle Close,Mangere
+NA10C/176,"88 Caravelle Close, Mangere, Auckland - Manukau",88 Caravelle Close,Mangere
+NA10C/178,"92 Caravelle Close, Mangere, Auckland - Manukau",92 Caravelle Close,Mangere
+NA10C/179,"94 Caravelle Close, Mangere, Auckland - Manukau",94 Caravelle Close,Mangere
+NA10C/133,"53 Bader Drive, Mangere, Auckland - Manukau",53 Bader Drive,Mangere
+NA10C/132,"55 Bader Drive, Mangere, Auckland - Manukau",55 Bader Drive,Mangere
+NA10C/131,"57 Bader Drive, Mangere, Auckland - Manukau",57 Bader Drive,Mangere
+NA10C/129,"61 Bader Drive, Mangere, Auckland - Manukau",61 Bader Drive,Mangere
+NA10C/128,"63 Bader Drive, Mangere, Auckland - Manukau",63 Bader Drive,Mangere
+NA10C/127,"65 Bader Drive, Mangere, Auckland - Manukau",65 Bader Drive,Mangere
+NA10C/126,"67 Bader Drive, Mangere, Auckland - Manukau",67 Bader Drive,Mangere
+NA10C/125,"69 Bader Drive, Mangere, Auckland - Manukau",69 Bader Drive,Mangere
+NA10C/124,"71 Bader Drive, Mangere, Auckland - Manukau",71 Bader Drive,Mangere
+NA10C/123,"73 Bader Drive, Mangere, Auckland - Manukau",73 Bader Drive,Mangere
+NA10C/121,"77 Bader Drive, Mangere, Auckland - Manukau",77 Bader Drive,Mangere
+NA10C/119,"81 Bader Drive, Mangere, Auckland - Manukau",81 Bader Drive,Mangere
+NA10C/118,"83 Bader Drive, Mangere, Auckland - Manukau",83 Bader Drive,Mangere
+NA10C/117,"85 Bader Drive, Mangere, Auckland - Manukau",85 Bader Drive,Mangere
+NA10C/116,"87 Bader Drive, Mangere, Auckland - Manukau",87 Bader Drive,Mangere
+NA10C/115,"89 Bader Drive, Mangere, Auckland - Manukau",89 Bader Drive,Mangere
+NA10C/525,"35 Idlewild Avenue, Mangere, Auckland - Manukau",35 Idlewild Avenue,Mangere
+NA10C/526,"37 Idlewild Avenue, Mangere, Auckland - Manukau",37 Idlewild Avenue,Mangere
+NA10C/527,"39 Idlewild Avenue, Mangere, Auckland - Manukau",39 Idlewild Avenue,Mangere
+NA10C/530,"45 Idlewild Avenue, Mangere, Auckland - Manukau",45 Idlewild Avenue,Mangere
+NA10C/531,"47 Idlewild Avenue, Mangere, Auckland - Manukau",47 Idlewild Avenue,Mangere
+NA10C/532,"49 Idlewild Avenue, Mangere, Auckland - Manukau",49 Idlewild Avenue,Mangere
+NA10C/533,"51 Idlewild Avenue, Mangere, Auckland - Manukau",51 Idlewild Avenue,Mangere
+NA10C/534,"53 Idlewild Avenue, Mangere, Auckland - Manukau",53 Idlewild Avenue,Mangere
+NA10C/535,"55 Idlewild Avenue, Mangere, Auckland - Manukau",55 Idlewild Avenue,Mangere
+NA10C/593,"63 Idlewild Avenue, Mangere, Auckland - Manukau",63 Idlewild Avenue,Mangere
+NA10C/594,"65 Idlewild Avenue, Mangere, Auckland - Manukau",65 Idlewild Avenue,Mangere
+NA10C/180,"40 Idlewild Avenue, Mangere, Auckland - Manukau",40 Idlewild Avenue,Mangere
+NA10C/181,"42 Idlewild Avenue, Mangere, Auckland - Manukau",42 Idlewild Avenue,Mangere
+NA10C/182,"44 Idlewild Avenue, Mangere, Auckland - Manukau",44 Idlewild Avenue,Mangere
+NA10C/183,"46 Idlewild Avenue, Mangere, Auckland - Manukau",46 Idlewild Avenue,Mangere
+NA10C/184,"48 Idlewild Avenue, Mangere, Auckland - Manukau",48 Idlewild Avenue,Mangere
+NA10C/185,"50 Idlewild Avenue, Mangere, Auckland - Manukau",50 Idlewild Avenue,Mangere
+NA10C/186,"52 Idlewild Avenue, Mangere, Auckland - Manukau",52 Idlewild Avenue,Mangere
+NA10C/249,"56 Idlewild Avenue, Mangere, Auckland - Manukau",56 Idlewild Avenue,Mangere
+NA10C/250,"58 Idlewild Avenue, Mangere, Auckland - Manukau",58 Idlewild Avenue,Mangere
+NA10C/251,"60 Idlewild Avenue, Mangere, Auckland - Manukau",60 Idlewild Avenue,Mangere
+NA10C/252,"62 Idlewild Avenue, Mangere, Auckland - Manukau",62 Idlewild Avenue,Mangere
+NA10C/162,"68 Idlewild Avenue, Mangere, Auckland - Manukau",68 Idlewild Avenue,Mangere
+NA10C/111,"74 Idlewild Avenue, Mangere, Auckland - Manukau",74 Idlewild Avenue,Mangere
+NA10C/114,"80 Idlewild Avenue, Mangere, Auckland - Manukau",80 Idlewild Avenue,Mangere
+NA10C/110,"72 Idlewild Avenue, Mangere, Auckland - Manukau",72 Idlewild Avenue,Mangere
+NA10C/109,"3 Proctor Place, Mangere, Auckland - Manukau",3 Proctor Place,Mangere
+NA10C/164,"4 Proctor Place, Mangere, Auckland - Manukau",4 Proctor Place,Mangere
+NA10C/165,"6 Proctor Place, Mangere, Auckland - Manukau",6 Proctor Place,Mangere
+NA10C/586,"59 Viscount Street, Mangere, Auckland - Manukau",59 Viscount Street,Mangere
+NA10C/588,"63 Viscount Street, Mangere, Auckland - Manukau",63 Viscount Street,Mangere
+NA10C/597,"65s Viscount Street, Mangere, Auckland - Manukau",65s Viscount Street,Mangere
+NA10C/596,"69a Viscount Street, Mangere, Auckland - Manukau",69a Viscount Street,Mangere
+NA10C/590,"71 Viscount Street, Mangere, Auckland - Manukau",71 Viscount Street,Mangere
+NA10C/579,"54 Viscount Street, Mangere, Auckland - Manukau",54 Viscount Street,Mangere
+NA10C/580,"56 Viscount Street, Mangere, Auckland - Manukau",56 Viscount Street,Mangere
+NA10C/555,"58 Viscount Street, Mangere, Auckland - Manukau",58 Viscount Street,Mangere
+NA10C/538,"60 Viscount Street, Mangere, Auckland - Manukau",60 Viscount Street,Mangere
+NA10C/537,"62 Viscount Street, Mangere, Auckland - Manukau",62 Viscount Street,Mangere
+NA10C/536,"64 Viscount Street, Mangere, Auckland - Manukau",64 Viscount Street,Mangere
+NA10C/554,"21 Wimpey Street, Mangere, Auckland - Manukau",21 Wimpey Street,Mangere
+NA10C/585,"18 Wimpey Street, Mangere, Auckland - Manukau",18 Wimpey Street,Mangere
+NA10C/584,"20 Wimpey Street, Mangere, Auckland - Manukau",20 Wimpey Street,Mangere
+NA10C/583,"22 Wimpey Street, Mangere, Auckland - Manukau",22 Wimpey Street,Mangere
+NA10C/582,"24 Wimpey Street, Mangere, Auckland - Manukau",24 Wimpey Street,Mangere
+NA10C/581,"26 Wimpey Street, Mangere, Auckland - Manukau",26 Wimpey Street,Mangere
+NA10C/568,"3 Anson Row, Mangere, Auckland - Manukau",3 Anson Row,Mangere
+NA10C/567,"5 Anson Row, Mangere, Auckland - Manukau",5 Anson Row,Mangere
+NA10C/566,"7a Anson Row, Mangere, Auckland - Manukau",7a Anson Row,Mangere
+NA10C/577,"3 Fairey Place, Mangere, Auckland - Manukau",3 Fairey Place,Mangere
+NA10C/576,"5 Fairey Place, Mangere, Auckland - Manukau",5 Fairey Place,Mangere
+NA10C/574,"9 Fairey Place, Mangere, Auckland - Manukau",9 Fairey Place,Mangere
+NA10C/573,"11 Fairey Place, Mangere, Auckland - Manukau",11 Fairey Place,Mangere
+NA10C/572,"13 Fairey Place, Mangere, Auckland - Manukau",13 Fairey Place,Mangere
+NA10C/571,"15 Fairey Place, Mangere, Auckland - Manukau",15 Fairey Place,Mangere
+NA10C/569,"12 Fairey Place, Mangere, Auckland - Manukau",12 Fairey Place,Mangere
+NA10C/570,"14 Fairey Place, Mangere, Auckland - Manukau",14 Fairey Place,Mangere
+NA10C/539,"3 Solent Street, Mangere, Auckland - Manukau",3 Solent Street,Mangere
+NA10C/540,"5 Solent Street, Mangere, Auckland - Manukau",5 Solent Street,Mangere
+NA10C/541,"7 Solent Street, Mangere, Auckland - Manukau",7 Solent Street,Mangere
+NA10C/542,"9 Solent Street, Mangere, Auckland - Manukau",9 Solent Street,Mangere
+NA10C/543,"11 Solent Street, Mangere, Auckland - Manukau",11 Solent Street,Mangere
+NA10C/544,"13 Solent Street, Mangere, Auckland - Manukau",13 Solent Street,Mangere
+NA10C/545,"15 Solent Street, Mangere, Auckland - Manukau",15 Solent Street,Mangere
+NA10C/546,"17 Solent Street, Mangere, Auckland - Manukau",17 Solent Street,Mangere
+NA10C/547,"19 Solent Street, Mangere, Auckland - Manukau",19 Solent Street,Mangere
+NA10C/548,"21 Solent Street, Mangere, Auckland - Manukau",21 Solent Street,Mangere
+NA10C/549,"23 Solent Street, Mangere, Auckland - Manukau",23 Solent Street,Mangere
+NA10C/550,"25 Solent Street, Mangere, Auckland - Manukau",25 Solent Street,Mangere
+NA10C/552,"29 Solent Street, Mangere, Auckland - Manukau",29 Solent Street,Mangere
+NA10C/553,"31 Solent Street, Mangere, Auckland - Manukau",31 Solent Street,Mangere
+NA10C/556,"4 Solent Street, Mangere, Auckland - Manukau",4 Solent Street,Mangere
+NA10C/557,"6 Solent Street, Mangere, Auckland - Manukau",6 Solent Street,Mangere
+NA10C/558,"8 Solent Street, Mangere, Auckland - Manukau",8 Solent Street,Mangere
+NA10C/559,"10 Solent Street, Mangere, Auckland - Manukau",10 Solent Street,Mangere
+NA10C/560,"12 Solent Street, Mangere, Auckland - Manukau",12 Solent Street,Mangere
+NA10C/562,"16 Solent Street, Mangere, Auckland - Manukau",16 Solent Street,Mangere
+NA10C/563,"18 Solent Street, Mangere, Auckland - Manukau",18 Solent Street,Mangere
+NA10C/564,"20 Solent Street, Mangere, Auckland - Manukau",20 Solent Street,Mangere
+NA10C/565,"22 Solent Street, Mangere, Auckland - Manukau",22 Solent Street,Mangere
+NA10C/902,"29 Vine Street, Mangere East, Auckland - Manukau",29 Vine Street,Mangere East
+NA10C/899,"31 Vine Street, Mangere East, Auckland - Manukau",31 Vine Street,Mangere East
+NA10C/370,"29a Gray Avenue, Mangere East, Auckland - Manukau",29a Gray Avenue,Mangere East
+NA10C/1019,"7 Cullinan Avenue, Mangere, Auckland - Manukau",7 Cullinan Avenue,Mangere
+NA10C/1018,"9 Cullinan Avenue, Mangere, Auckland - Manukau",9 Cullinan Avenue,Mangere
+NA10C/1010,"4 Cullinan Avenue, Mangere, Auckland - Manukau",4 Cullinan Avenue,Mangere
+NA10C/1011,"6 Cullinan Avenue, Mangere, Auckland - Manukau",6 Cullinan Avenue,Mangere
+NA10C/1012,"8 Cullinan Avenue, Mangere, Auckland - Manukau",8 Cullinan Avenue,Mangere
+NA10C/1013,"10 Cullinan Avenue, Mangere, Auckland - Manukau",10 Cullinan Avenue,Mangere
+NA10C/1014,"12 Cullinan Avenue, Mangere, Auckland - Manukau",12 Cullinan Avenue,Mangere
+NA10C/1015,"14 Cullinan Avenue, Mangere, Auckland - Manukau",14 Cullinan Avenue,Mangere
+NA10C/1016,"16 Cullinan Avenue, Mangere, Auckland - Manukau",16 Cullinan Avenue,Mangere
+NA10C/1017,"18 Cullinan Avenue, Mangere, Auckland - Manukau",18 Cullinan Avenue,Mangere
+NA10C/1048,"3 Cullinan Avenue, Mangere, Auckland - Manukau",3 Cullinan Avenue,Mangere
+NA10C/1047,"3 Michelle Place, Mangere, Auckland - Manukau",3 Michelle Place,Mangere
+NA10C/1046,"5 Michelle Place, Mangere, Auckland - Manukau",5 Michelle Place,Mangere
+NA10C/1045,"7 Michelle Place, Mangere, Auckland - Manukau",7 Michelle Place,Mangere
+NA10C/1044,"9 Michelle Place, Mangere, Auckland - Manukau",9 Michelle Place,Mangere
+NA10C/1043,"11 Michelle Place, Mangere, Auckland - Manukau",11 Michelle Place,Mangere
+NA10C/1042,"13 Michelle Place, Mangere, Auckland - Manukau",13 Michelle Place,Mangere
+NA10C/1041,"15 Michelle Place, Mangere, Auckland - Manukau",15 Michelle Place,Mangere
+NA10C/1040,"17 Michelle Place, Mangere, Auckland - Manukau",17 Michelle Place,Mangere
+NA10C/1039,"19 Michelle Place, Mangere, Auckland - Manukau",19 Michelle Place,Mangere
+NA10C/1038,"21 Michelle Place, Mangere, Auckland - Manukau",21 Michelle Place,Mangere
+NA10C/1037,"23 Michelle Place, Mangere, Auckland - Manukau",23 Michelle Place,Mangere
+NA10C/1020,"2 Michelle Place, Mangere, Auckland - Manukau",2 Michelle Place,Mangere
+NA10C/1021,"4 Michelle Place, Mangere, Auckland - Manukau",4 Michelle Place,Mangere
+NA10C/1022,"6 Michelle Place, Mangere, Auckland - Manukau",6 Michelle Place,Mangere
+NA10C/1023,"8 Michelle Place, Mangere, Auckland - Manukau",8 Michelle Place,Mangere
+NA10C/1024,"10 Michelle Place, Mangere, Auckland - Manukau",10 Michelle Place,Mangere
+NA10C/1025,"12 Michelle Place, Mangere, Auckland - Manukau",12 Michelle Place,Mangere
+NA10C/1026,"14 Michelle Place, Mangere, Auckland - Manukau",14 Michelle Place,Mangere
+NA10C/1027,"16 Michelle Place, Mangere, Auckland - Manukau",16 Michelle Place,Mangere
+NA10C/1028,"18 Michelle Place, Mangere, Auckland - Manukau",18 Michelle Place,Mangere
+NA10C/1029,"20 Michelle Place, Mangere, Auckland - Manukau",20 Michelle Place,Mangere
+NA10C/1030,"22 Michelle Place, Mangere, Auckland - Manukau",22 Michelle Place,Mangere
+NA10C/1031,"24 Michelle Place, Mangere, Auckland - Manukau",24 Michelle Place,Mangere
+NA10C/1032,"26 Michelle Place, Mangere, Auckland - Manukau",26 Michelle Place,Mangere
+NA10C/1034,"30 Michelle Place, Mangere, Auckland - Manukau",30 Michelle Place,Mangere
+NA10C/1035,"27 Michelle Place, Mangere, Auckland - Manukau",27 Michelle Place,Mangere
+NA10C/1036,"25 Michelle Place, Mangere, Auckland - Manukau",25 Michelle Place,Mangere
+NA10C/1362,"647 Massey Road, Mangere, Auckland - Manukau",647 Massey Road,Mangere
+NA10C/1382,"2 Pershore Place, Mangere, Auckland - Manukau",2 Pershore Place,Mangere
+NA10C/1363,"3 Pershore Place, Mangere, Auckland - Manukau",3 Pershore Place,Mangere
+NA10C/1364,"5 Pershore Place, Mangere, Auckland - Manukau",5 Pershore Place,Mangere
+NA10C/1367,"11 Pershore Place, Mangere, Auckland - Manukau",11 Pershore Place,Mangere
+NA10C/1369,"15 Pershore Place, Mangere, Auckland - Manukau",15 Pershore Place,Mangere
+NA10C/1370,"17 Pershore Place, Mangere, Auckland - Manukau",17 Pershore Place,Mangere
+NA10C/1371,"19 Pershore Place, Mangere, Auckland - Manukau",19 Pershore Place,Mangere
+NA10C/1381,"4 Pershore Place, Mangere, Auckland - Manukau",4 Pershore Place,Mangere
+NA10C/1380,"6 Pershore Place, Mangere, Auckland - Manukau",6 Pershore Place,Mangere
+NA10C/1379,"8 Pershore Place, Mangere, Auckland - Manukau",8 Pershore Place,Mangere
+NA10C/1378,"10 Pershore Place, Mangere, Auckland - Manukau",10 Pershore Place,Mangere
+NA10C/1347,"8 Mascot Avenue, Mangere, Auckland - Manukau",8 Mascot Avenue,Mangere
+NA10C/1346,"10 Mascot Avenue, Mangere, Auckland - Manukau",10 Mascot Avenue,Mangere
+NA10C/1393,"7 Heyford Close, Mangere, Auckland - Manukau",7 Heyford Close,Mangere
+NA10C/1394,"9 Heyford Close, Mangere, Auckland - Manukau",9 Heyford Close,Mangere
+NA10C/1395,"11 Heyford Close, Mangere, Auckland - Manukau",11 Heyford Close,Mangere
+NA10C/1396,"13 Heyford Close, Mangere, Auckland - Manukau",13 Heyford Close,Mangere
+NA10C/1397,"15 Heyford Close, Mangere, Auckland - Manukau",15 Heyford Close,Mangere
+NA10C/1398,"17 Heyford Close, Mangere, Auckland - Manukau",17 Heyford Close,Mangere
+NA10C/1399,"19 Heyford Close, Mangere, Auckland - Manukau",19 Heyford Close,Mangere
+NA10C/1400,"21 Heyford Close, Mangere, Auckland - Manukau",21 Heyford Close,Mangere
+NA10C/1401,"23 Heyford Close, Mangere, Auckland - Manukau",23 Heyford Close,Mangere
+NA10C/1402,"25 Heyford Close, Mangere, Auckland - Manukau",25 Heyford Close,Mangere
+NA10C/1403,"27 Heyford Close, Mangere, Auckland - Manukau",27 Heyford Close,Mangere
+NA10C/1404,"29 Heyford Close, Mangere, Auckland - Manukau",29 Heyford Close,Mangere
+NA10C/1405,"31 Heyford Close, Mangere, Auckland - Manukau",31 Heyford Close,Mangere
+NA10C/1406,"33 Heyford Close, Mangere, Auckland - Manukau",33 Heyford Close,Mangere
+NA10C/1407,"35 Heyford Close, Mangere, Auckland - Manukau",35 Heyford Close,Mangere
+NA10C/1408,"37 Heyford Close, Mangere, Auckland - Manukau",37 Heyford Close,Mangere
+NA10C/1409,"39 Heyford Close, Mangere, Auckland - Manukau",39 Heyford Close,Mangere
+NA10C/1410,"41 Heyford Close, Mangere, Auckland - Manukau",41 Heyford Close,Mangere
+NA10C/1389,"43 Heyford Close, Mangere, Auckland - Manukau",43 Heyford Close,Mangere
+NA10C/1390,"45 Heyford Close, Mangere, Auckland - Manukau",45 Heyford Close,Mangere
+NA10C/1391,"47 Heyford Close, Mangere, Auckland - Manukau",47 Heyford Close,Mangere
+NA10C/1392,"49 Heyford Close, Mangere, Auckland - Manukau",49 Heyford Close,Mangere
+NA10C/1333,"4 Heyford Close, Mangere, Auckland - Manukau",4 Heyford Close,Mangere
+NA10C/1331,"8 Heyford Close, Mangere, Auckland - Manukau",8 Heyford Close,Mangere
+NA10C/1330,"10 Heyford Close, Mangere, Auckland - Manukau",10 Heyford Close,Mangere
+NA10C/1329,"12 Heyford Close, Mangere, Auckland - Manukau",12 Heyford Close,Mangere
+NA10C/1328,"14 Heyford Close, Mangere, Auckland - Manukau",14 Heyford Close,Mangere
+NA10C/1327,"16 Heyford Close, Mangere, Auckland - Manukau",16 Heyford Close,Mangere
+NA10C/1326,"18 Heyford Close, Mangere, Auckland - Manukau",18 Heyford Close,Mangere
+NA10C/1324,"22 Heyford Close, Mangere, Auckland - Manukau",22 Heyford Close,Mangere
+NA10C/1323,"24 Heyford Close, Mangere, Auckland - Manukau",24 Heyford Close,Mangere
+NA10C/1322,"26 Heyford Close, Mangere, Auckland - Manukau",26 Heyford Close,Mangere
+NA10C/1320,"30 Heyford Close, Mangere, Auckland - Manukau",30 Heyford Close,Mangere
+NA10C/1319,"32 Heyford Close, Mangere, Auckland - Manukau",32 Heyford Close,Mangere
+NA10C/1318,"34 Heyford Close, Mangere, Auckland - Manukau",34 Heyford Close,Mangere
+NA10C/1317,"36 Heyford Close, Mangere, Auckland - Manukau",36 Heyford Close,Mangere
+NA10C/1316,"38 Heyford Close, Mangere, Auckland - Manukau",38 Heyford Close,Mangere
+NA10C/1315,"40 Heyford Close, Mangere, Auckland - Manukau",40 Heyford Close,Mangere
+NA10C/1314,"42 Heyford Close, Mangere, Auckland - Manukau",42 Heyford Close,Mangere
+NA10C/1313,"44 Heyford Close, Mangere, Auckland - Manukau",44 Heyford Close,Mangere
+NA10C/1458,"55 Friesian Drive, Mangere, Auckland - Manukau",55 Friesian Drive,Mangere
+NA10C/1459,"57 Friesian Drive, Mangere, Auckland - Manukau",57 Friesian Drive,Mangere
+NA10C/1460,"59 Friesian Drive, Mangere, Auckland - Manukau",59 Friesian Drive,Mangere
+NA10C/1461,"61 Friesian Drive, Mangere, Auckland - Manukau",61 Friesian Drive,Mangere
+NA10C/1462,"63 Friesian Drive, Mangere, Auckland - Manukau",63 Friesian Drive,Mangere
+NA10C/1463,"65 Friesian Drive, Mangere, Auckland - Manukau",65 Friesian Drive,Mangere
+NA10C/1465,"69 Friesian Drive, Mangere, Auckland - Manukau",69 Friesian Drive,Mangere
+NA10C/1465,"71 Friesian Drive, Mangere, Auckland - Manukau",71 Friesian Drive,Mangere
+NA10C/1467,"73 Friesian Drive, Mangere, Auckland - Manukau",73 Friesian Drive,Mangere
+NA10C/1468,"60 Friesian Drive, Mangere, Auckland - Manukau",60 Friesian Drive,Mangere
+NA10C/1472,"68 Friesian Drive, Mangere, Auckland - Manukau",68 Friesian Drive,Mangere
+NA10C/1473,"70 Friesian Drive, Mangere, Auckland - Manukau",70 Friesian Drive,Mangere
+NA10C/1474,"72 Friesian Drive, Mangere, Auckland - Manukau",72 Friesian Drive,Mangere
+NA10C/1475,"74 Friesian Drive, Mangere, Auckland - Manukau",74 Friesian Drive,Mangere
+NA10C/1476,"76 Friesian Drive, Mangere, Auckland - Manukau",76 Friesian Drive,Mangere
+NA10C/1477,"78 Friesian Drive, Mangere, Auckland - Manukau",78 Friesian Drive,Mangere
+NA10C/1238,"3 Wayne Drive, Mangere, Auckland - Manukau",3 Wayne Drive,Mangere
+NA10C/1237,"5 Wayne Drive, Mangere, Auckland - Manukau",5 Wayne Drive,Mangere
+NA10C/1236,"7 Wayne Drive, Mangere, Auckland - Manukau",7 Wayne Drive,Mangere
+NA10C/1234,"11 Wayne Drive, Mangere, Auckland - Manukau",11 Wayne Drive,Mangere
+NA10C/1233,"13 Wayne Drive, Mangere, Auckland - Manukau",13 Wayne Drive,Mangere
+NA10C/1232,"15 Wayne Drive, Mangere, Auckland - Manukau",15 Wayne Drive,Mangere
+NA10C/1231,"17 Wayne Drive, Mangere, Auckland - Manukau",17 Wayne Drive,Mangere
+NA10C/1230,"19 Wayne Drive, Mangere, Auckland - Manukau",19 Wayne Drive,Mangere
+NA10C/1229,"21 Wayne Drive, Mangere, Auckland - Manukau",21 Wayne Drive,Mangere
+NA10C/1228,"23 Wayne Drive, Mangere, Auckland - Manukau",23 Wayne Drive,Mangere
+NA10C/1160,"4 Wayne Drive, Mangere, Auckland - Manukau",4 Wayne Drive,Mangere
+NA10C/1162,"8 Wayne Drive, Mangere, Auckland - Manukau",8 Wayne Drive,Mangere
+NA10C/1163,"10 Wayne Drive, Mangere, Auckland - Manukau",10 Wayne Drive,Mangere
+NA10C/1164,"12 Wayne Drive, Mangere, Auckland - Manukau",12 Wayne Drive,Mangere
+NA10C/1165,"14 Wayne Drive, Mangere, Auckland - Manukau",14 Wayne Drive,Mangere
+NA10C/1166,"16 Wayne Drive, Mangere, Auckland - Manukau",16 Wayne Drive,Mangere
+NA10C/1167,"18 Wayne Drive, Mangere, Auckland - Manukau",18 Wayne Drive,Mangere
+NA10C/1168,"20 Wayne Drive, Mangere, Auckland - Manukau",20 Wayne Drive,Mangere
+NA10C/1169,"22 Wayne Drive, Mangere, Auckland - Manukau",22 Wayne Drive,Mangere
+NA10C/1170,"24 Wayne Drive, Mangere, Auckland - Manukau",24 Wayne Drive,Mangere
+NA10C/1172,"28 Wayne Drive, Mangere, Auckland - Manukau",28 Wayne Drive,Mangere
+NA10C/1478,"80 Friesian Drive, Mangere, Auckland - Manukau",80 Friesian Drive,Mangere
+NA10C/1479,"3 Paine Place, Mangere, Auckland - Manukau",3 Paine Place,Mangere
+NA10C/1482,"9 Paine Place, Mangere, Auckland - Manukau",9 Paine Place,Mangere
+NA10C/1483,"11 Paine Place, Mangere, Auckland - Manukau",11 Paine Place,Mangere
+NA10C/1484,"13 Paine Place, Mangere, Auckland - Manukau",13 Paine Place,Mangere
+NA10C/1486,"17 Paine Place, Mangere, Auckland - Manukau",17 Paine Place,Mangere
+NA10C/1487,"19 Paine Place, Mangere, Auckland - Manukau",19 Paine Place,Mangere
+NA10C/1500,"4 Paine Place, Mangere, Auckland - Manukau",4 Paine Place,Mangere
+NA10C/1499,"6 Paine Place, Mangere, Auckland - Manukau",6 Paine Place,Mangere
+NA10C/1498,"8 Paine Place, Mangere, Auckland - Manukau",8 Paine Place,Mangere
+NA10C/1497,"10 Paine Place, Mangere, Auckland - Manukau",10 Paine Place,Mangere
+NA10C/1496,"12 Paine Place, Mangere, Auckland - Manukau",12 Paine Place,Mangere
+NA10C/1495,"14 Paine Place, Mangere, Auckland - Manukau",14 Paine Place,Mangere
+NA10C/494,"16 Paine Place, Mangere, Auckland - Manukau",16 Paine Place,Mangere
+NA10C/1493,"18 Paine Place, Mangere, Auckland - Manukau",18 Paine Place,Mangere
+NA10C/1490,"24 Paine Place, Mangere, Auckland - Manukau",24 Paine Place,Mangere
+NA10C/1489,"26 Paine Place, Mangere, Auckland - Manukau",26 Paine Place,Mangere
+NA10C/1488,"28 Paine Place, Mangere, Auckland - Manukau",28 Paine Place,Mangere
+NA10C/1181,"3 Duggan Avenue, Mangere, Auckland - Manukau",3 Duggan Avenue,Mangere
+NA10C/1180,"5 Duggan Avenue, Mangere, Auckland - Manukau",5 Duggan Avenue,Mangere
+NA10C/1179,"7 Duggan Avenue, Mangere, Auckland - Manukau",7 Duggan Avenue,Mangere
+NA10C/1177,"11 Duggan Avenue, Mangere, Auckland - Manukau",11 Duggan Avenue,Mangere
+NA10C/1176,"13 Duggan Avenue, Mangere, Auckland - Manukau",13 Duggan Avenue,Mangere
+NA10C/1175,"15 Duggan Avenue, Mangere, Auckland - Manukau",15 Duggan Avenue,Mangere
+NA10C/1174,"17 Duggan Avenue, Mangere, Auckland - Manukau",17 Duggan Avenue,Mangere
+NA10C/1173,"30 Wayne Drive, Mangere, Auckland - Manukau",30 Wayne Drive,Mangere
+NA10C/1227,"25 Wayne Drive, Mangere, Auckland - Manukau",25 Wayne Drive,Mangere
+NA10C/1226,"23 Duggan Avenue, Mangere, Auckland - Manukau",23 Duggan Avenue,Mangere
+NA10C/1225,"25 Duggan Avenue, Mangere, Auckland - Manukau",25 Duggan Avenue,Mangere
+NA10C/1223,"31 Duggan Avenue, Mangere, Auckland - Manukau",31 Duggan Avenue,Mangere
+NA10C/1182,"2 Duggan Avenue, Mangere, Auckland - Manukau",2 Duggan Avenue,Mangere
+NA10C/1183,"4 Duggan Avenue, Mangere, Auckland - Manukau",4 Duggan Avenue,Mangere
+NA10C/1184,"8 Duggan Avenue, Mangere, Auckland - Manukau",8 Duggan Avenue,Mangere
+NA10C/1185,"10 Duggan Avenue, Mangere, Auckland - Manukau",10 Duggan Avenue,Mangere
+NA10C/1186,"12 Duggan Avenue, Mangere, Auckland - Manukau",12 Duggan Avenue,Mangere
+NA10C/1187,"14 Duggan Avenue, Mangere, Auckland - Manukau",14 Duggan Avenue,Mangere
+NA10C/1189,"18 Duggan Avenue, Mangere, Auckland - Manukau",18 Duggan Avenue,Mangere
+NA10C/1190,"20 Duggan Avenue, Mangere, Auckland - Manukau",20 Duggan Avenue,Mangere
+NA10C/1191,"22 Duggan Avenue, Mangere, Auckland - Manukau",22 Duggan Avenue,Mangere
+NA10C/1193,"26 Duggan Avenue, Mangere, Auckland - Manukau",26 Duggan Avenue,Mangere
+NA10C/1194,"28 Duggan Avenue, Mangere, Auckland - Manukau",28 Duggan Avenue,Mangere
+NA10C/1195,"30 Duggan Avenue, Mangere, Auckland - Manukau",30 Duggan Avenue,Mangere
+NA10C/1196,"32 Duggan Avenue, Mangere, Auckland - Manukau",32 Duggan Avenue,Mangere
+NA10C/1199,"38 Duggan Avenue, Mangere, Auckland - Manukau",38 Duggan Avenue,Mangere
+NA10C/1200,"40 Duggan Avenue, Mangere, Auckland - Manukau",40 Duggan Avenue,Mangere
+NA10C/1201,"42 Duggan Avenue, Mangere, Auckland - Manukau",42 Duggan Avenue,Mangere
+NA10C/1202,"44 Duggan Avenue, Mangere, Auckland - Manukau",44 Duggan Avenue,Mangere
+NA10C/1203,"46 Duggan Avenue, Mangere, Auckland - Manukau",46 Duggan Avenue,Mangere
+NA10C/1204,"48 Duggan Avenue, Mangere, Auckland - Manukau",48 Duggan Avenue,Mangere
+NA10C/1205,"50 Duggan Avenue, Mangere, Auckland - Manukau",50 Duggan Avenue,Mangere
+NA10C/1206,"52 Duggan Avenue, Mangere, Auckland - Manukau",52 Duggan Avenue,Mangere
+NA10C/1207,"54 Duggan Avenue, Mangere, Auckland - Manukau",54 Duggan Avenue,Mangere
+NA10C/1221,"3 Leeson Place, Mangere, Auckland - Manukau",3 Leeson Place,Mangere
+NA10C/1220,"5 Leeson Place, Mangere, Auckland - Manukau",5 Leeson Place,Mangere
+NA10C/1219,"7 Leeson Place, Mangere, Auckland - Manukau",7 Leeson Place,Mangere
+NA10C/1218,"9 Leeson Place, Mangere, Auckland - Manukau",9 Leeson Place,Mangere
+NA10C/1217,"11r Leeson Place, Mangere, Auckland - Manukau",11r Leeson Place,Mangere
+NA10C/1216,"13 Leeson Place, Mangere, Auckland - Manukau",13 Leeson Place,Mangere
+NA10C/1208,"37 Duggan Avenue, Mangere, Auckland - Manukau",37 Duggan Avenue,Mangere
+NA10C/1209,"4 Leeson Place, Mangere, Auckland - Manukau",4 Leeson Place,Mangere
+NA10C/1210,"6 Leeson Place, Mangere, Auckland - Manukau",6 Leeson Place,Mangere
+NA10C/1212,"10 Leeson Place, Mangere, Auckland - Manukau",10 Leeson Place,Mangere
+NA10C/1213,"12 Leeson Place, Mangere, Auckland - Manukau",12 Leeson Place,Mangere
+NA10C/1215,"16 Leeson Place, Mangere, Auckland - Manukau",16 Leeson Place,Mangere
+NA10C/1262,"88 Woolfield Road, Papatoetoe, Auckland - Manukau",88 Woolfield Road,Papatoetoe
+NA10C/1263,"86 Woolfield Road, Papatoetoe, Auckland - Manukau",86 Woolfield Road,Papatoetoe
+NA10C/1264,"84 Woolfield Road, Papatoetoe, Auckland - Manukau",84 Woolfield Road,Papatoetoe
+NA10C/1265,"82 Woolfield Road, Papatoetoe, Auckland - Manukau",82 Woolfield Road,Papatoetoe
+NA10C/1266,"80 Woolfield Road, Papatoetoe, Auckland - Manukau",80 Woolfield Road,Papatoetoe
+NA10C/1267,"78 Woolfield Road, Papatoetoe, Auckland - Manukau",78 Woolfield Road,Papatoetoe
+NA10C/1268,"76 Woolfield Road, Papatoetoe, Auckland - Manukau",76 Woolfield Road,Papatoetoe
+NA10C/1269,"74 Woolfield Road, Papatoetoe, Auckland - Manukau",74 Woolfield Road,Papatoetoe
+NA10C/1270,"72 Woolfield Road, Papatoetoe, Auckland - Manukau",72 Woolfield Road,Papatoetoe
+NA10C/1272,"68 Woolfield Road, Papatoetoe, Auckland - Manukau",68 Woolfield Road,Papatoetoe
+NA10C/1273,"66 Woolfield Road, Papatoetoe, Auckland - Manukau",66 Woolfield Road,Papatoetoe
+NA10C/1274,"64 Woolfield Road, Papatoetoe, Auckland - Manukau",64 Woolfield Road,Papatoetoe
+NA10C/1275,"62 Woolfield Road, Papatoetoe, Auckland - Manukau",62 Woolfield Road,Papatoetoe
+NA10C/1276,"60 Woolfield Road, Papatoetoe, Auckland - Manukau",60 Woolfield Road,Papatoetoe
+NA10C/1291,"87 Woolfield Road, Papatoetoe, Auckland - Manukau",87 Woolfield Road,Papatoetoe
+NA10C/1290,"85 Woolfield Road, Papatoetoe, Auckland - Manukau",85 Woolfield Road,Papatoetoe
+NA10C/1289,"83 Woolfield Road, Papatoetoe, Auckland - Manukau",83 Woolfield Road,Papatoetoe
+NA10C/1288,"81 Woolfield Road, Papatoetoe, Auckland - Manukau",81 Woolfield Road,Papatoetoe
+NA10C/1287,"79 Woolfield Road, Papatoetoe, Auckland - Manukau",79 Woolfield Road,Papatoetoe
+NA10C/1286,"77 Woolfield Road, Papatoetoe, Auckland - Manukau",77 Woolfield Road,Papatoetoe
+NA10C/1284,"67 Woolfield Road, Papatoetoe, Auckland - Manukau",67 Woolfield Road,Papatoetoe
+NA10C/1281,"65 Woolfield Road, Papatoetoe, Auckland - Manukau",65 Woolfield Road,Papatoetoe
+NA10C/1280,"63 Woolfield Road, Papatoetoe, Auckland - Manukau",63 Woolfield Road,Papatoetoe
+NA10C/1279,"61 Woolfield Road, Papatoetoe, Auckland - Manukau",61 Woolfield Road,Papatoetoe
+NA10C/1278,"59 Woolfield Road, Papatoetoe, Auckland - Manukau",59 Woolfield Road,Papatoetoe
+NA10C/786,"76 Popes Road, Takanini, Auckland - Papakura",76 Popes Road,Takanini
+NA10C/20,"152 Manuroa Road, Takanini, Auckland - Papakura",152 Manuroa Road,Takanini
+NA10C/23,"158 Manuroa Road, Takanini, Auckland - Papakura",158 Manuroa Road,Takanini
+NA10C/24,"160 Manuroa Road, Takanini, Auckland - Papakura",160 Manuroa Road,Takanini
+NA10C/920,"58 Kayes Road, Pukekohe, Auckland - Franklin",58 Kayes Road,Pukekohe
+NA10C/923,"56 Kayes Road, Pukekohe, Auckland - Franklin",56 Kayes Road,Pukekohe
+NA10C/1000,"11 Kathy Terrace, Stanmore Bay, Auckland - Rodney",11 Kathy Terrace,Stanmore Bay
+NA10C/1261,"64 Brown Street, Ponsonby, Auckland - City",64 Brown Street,Ponsonby
+NA10C/403,"1 Cowan Street, Ponsonby, Auckland - City",1 Cowan Street,Ponsonby
+NA10C/859,"7 Impala Place, Hillsborough, Auckland - City",7 Impala Place,Hillsborough
+NA10C/856,"13 Impala Place, Hillsborough, Auckland - City",13 Impala Place,Hillsborough
+NA10C/854,"17 Impala Place, Hillsborough, Auckland - City",17 Impala Place,Hillsborough
+NA10C/846,"6 Impala Place, Hillsborough, Auckland - City",6 Impala Place,Hillsborough
+NA10C/842,"39 Bel Air Drive, Hillsborough, Auckland - City",39 Bel Air Drive,Hillsborough
+NA10C/840,"43 Bel Air Drive, Hillsborough, Auckland - City",43 Bel Air Drive,Hillsborough
+NA10C/839,"45 Bel Air Drive, Hillsborough, Auckland - City",45 Bel Air Drive,Hillsborough
+NA10C/838,"47 Bel Air Drive, Hillsborough, Auckland - City",47 Bel Air Drive,Hillsborough
+NA10C/837,"49 Bel Air Drive, Hillsborough, Auckland - City",49 Bel Air Drive,Hillsborough
+NA10C/836,"51 Bel Air Drive, Hillsborough, Auckland - City",51 Bel Air Drive,Hillsborough
+NA10C/835,"53 Bel Air Drive, Hillsborough, Auckland - City",53 Bel Air Drive,Hillsborough
+NA10C/834,"55 Bel Air Drive, Hillsborough, Auckland - City",55 Bel Air Drive,Hillsborough
+NA10C/818,"28 Bel Air Drive, Hillsborough, Auckland - City",28 Bel Air Drive,Hillsborough
+NA10C/819,"30 Bel Air Drive, Hillsborough, Auckland - City",30 Bel Air Drive,Hillsborough
+NA10C/822,"36 Bel Air Drive, Hillsborough, Auckland - City",36 Bel Air Drive,Hillsborough
+NA10C/823,"38 Bel Air Drive, Hillsborough, Auckland - City",38 Bel Air Drive,Hillsborough
+NA10C/824,"40 Bel Air Drive, Hillsborough, Auckland - City",40 Bel Air Drive,Hillsborough
+NA10C/826,"44 Bel Air Drive, Hillsborough, Auckland - City",44 Bel Air Drive,Hillsborough
+NA10C/827,"46 Bel Air Drive, Hillsborough, Auckland - City",46 Bel Air Drive,Hillsborough
+NA10C/831,"54 Bel Air Drive, Hillsborough, Auckland - City",54 Bel Air Drive,Hillsborough
+NA10C/832,"56 Bel Air Drive, Hillsborough, Auckland - City",56 Bel Air Drive,Hillsborough
+NA10C/701,"87 Balmain Road, Birkenhead, Auckland - North Shore",87 Balmain Road,Birkenhead
+NA10C/457,"270 Shoal Bay Road, Auckland - City",270 Shoal Bay Road,NULL
+NA10C/458,"268 Shoal Bay Road, Auckland - City",268 Shoal Bay Road,NULL
+NA10C/878,"8 Rendcomb Place, Hillsborough, Auckland - City",8 Rendcomb Place,Hillsborough
+NA10C/879,"7 Rendcomb Place, Hillsborough, Auckland - City",7 Rendcomb Place,Hillsborough
+NA10C/635,"792 East Coast Road, Oteha, Auckland - North Shore",792 East Coast Road,Oteha
+NA10C/1105,"Hamilton Drive, Waiuku, Auckland - Franklin",Hamilton Drive,Waiuku
+NA10C/402,"2 Pompallier Terrace, Ponsonby, Auckland - City",2 Pompallier Terrace,Ponsonby
+NA10C/1259,"1 Grenada Avenue, Forrest Hill, Auckland - North Shore",1 Grenada Avenue,Forrest Hill
+NA10C/373,"16 Queens Road, Panmure, Auckland - City",16 Queens Road,Panmure
+NA10C/365,"1 Railside Avenue, Henderson, Auckland - Waitakere",1 Railside Avenue,Henderson
+NA10C/793,"63 Takutai Avenue, Half Moon Bay, Auckland - Manukau",63 Takutai Avenue,Half Moon Bay
+NA10C/643,"2 Helleur Road, Massey, Auckland - Waitakere",2 Helleur Road,Massey

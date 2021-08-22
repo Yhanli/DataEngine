@@ -17,5 +17,5 @@ def start_process():
 
 
 if __name__ == '__main__':
-    # destroy_all()
+    destroy_all()
     start_process()
