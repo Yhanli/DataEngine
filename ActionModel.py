@@ -41,6 +41,8 @@ class ActionModel:
         self.CHILD_TABLES = attrib["CHILD_TABLES"].split('|') if attrib["CHILD_TABLES"] else []
         self.BATCH_DATE_KEY = datetime.now().strftime('%Y%m%d')
 
+        self.STAGED = False
+
         self.STAGE_START_DATETIME = None
         self.DQ_START_DATETIME = None
         self.ETL_START_DATETIME = None
@@ -62,6 +64,10 @@ class ActionModel:
     def run_stage(self):
         global DB
         if self.STAGE_TABLE:
+            if auditor.check_stage_audit(self.STAGE_TABLE, self.FILE_PREFIX):
+                print(f"INFO : File has been extracted {self.FILE_PREFIX}")
+                return
+
             self.STAGE_START_DATETIME = auditor.start_stage(self.STAGE_TABLE, self.FILE_PREFIX)
             try:
                 print(f'Staging : {self.STAGE_TABLE}')
@@ -75,6 +81,7 @@ class ActionModel:
                 petl.io.todb(data, DB.DB, self.STAGE_TABLE)
                 print(f"SUCCESS : Staged {self.STAGE_TABLE} using {self.FILE_PREFIX}.csv")
                 auditor.finish_stage(self.STAGE_START_DATETIME, self.STAGE_TABLE)
+                self.STAGED = True
                 return True
             except Exception as e:
                 auditor.failed_stage(self.STAGE_START_DATETIME, str(traceback.format_exc()), self.STAGE_TABLE)
@@ -99,6 +106,7 @@ class ActionModel:
             data.to_sql(self.STAGE_TABLE, con=DB.ENGINE, schema='STAGE', if_exists="append", index=False)
             print(f"SUCCESS : Staged {self.STAGE_TABLE} using {self.FILE_PREFIX}.csv")
             auditor.finish_stage(self.STAGE_START_DATETIME, self.STAGE_TABLE)
+            self.STAGED = True
             return True
 
         except Exception as e:
@@ -119,7 +127,7 @@ class ActionModel:
 
     def run_dq(self):
         DB.CURSOR.execute('USE DQ;')
-        if self.DQ_CODE:
+        if self.DQ_CODE and self.STAGED:
             self.DQ_START_DATETIME = auditor.start_dq(self.DQ_TABLE, self.STAGE_TABLE)
             try:
                 DB.execute_sql_file(f'Sql/dm_dq/{self.DQ_CODE}')
@@ -141,7 +149,7 @@ class ActionModel:
 
     def run_etl(self):
         DB.CURSOR.execute('USE ETL;')
-        if self.ETL_CODE:
+        if self.ETL_CODE and self.STAGED:
             self.ETL_START_DATETIME = auditor.start_etl(self.ETL_TABLE, self.STAGE_TABLE)
             for table in self.CHILD_TABLES:
                 auditor.start_etl(table, self.STAGE_TABLE, self.ETL_START_DATETIME)

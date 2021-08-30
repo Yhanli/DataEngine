@@ -47,6 +47,10 @@ class DatabaseModel:
         fields = map(lambda x: x[0], self.CURSOR.description)
         return [dict(zip(fields, row)) for row in self.CURSOR.fetchall()][-1]
 
+    def execute_fetchone(self, sql):
+        self.CURSOR.execute(sql)
+        return self.CURSOR.fetchone()
+
     def close(self):
         self.DB.close()
         self.ENGINE.dispose()

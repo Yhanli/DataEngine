@@ -36,6 +36,14 @@ class Auditor:
 
     # Audit Stage -----------------------------------------------------
 
+    def check_stage_audit(self, TableName, FileName):
+        sql = f"SELECT * FROM STAGE.StageAudit WHERE TableName='{TableName}' AND FileName='{FileName}' " \
+              f"AND Status='{self.STATUS[1]}'"
+        logging.debug(sql)
+        result = True if self.DB.execute_fetchone(sql) else False
+        logging.debug(result)
+        return result
+
     def start_stage(self, TableName, FileName):
         sql = f'INSERT INTO STAGE.StageAudit (TableName, FileName,StartDateTime,Status) VALUES (%s,%s,%s,%s)'
         logging.debug(f'{sql}')
@@ -123,3 +131,8 @@ class Auditor:
         logging.debug(f'{sql}')
         time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         self.DB.execute_single(sql, (time, self.STATUS[1], str(result), StartTime, TableName))
+
+
+if __name__ == '__main__':
+    auditor = Auditor()
+    auditor.check_stage_audit('StageAddress', 'aims-address')
