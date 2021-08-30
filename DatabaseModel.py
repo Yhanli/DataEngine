@@ -18,12 +18,12 @@ class DatabaseModel:
             user=conf['DB']['USER'],
             password=conf['DB']['PASS'],
             host=conf['DB']['HOST'],
-            database=conf['DB']['DB'],
             port=int(conf['DB']['PORT'])
         )
         self.CURSOR = self.DB.cursor()
         self.CURSOR.execute('SET SQL_MODE=ANSI_QUOTES')
-        self.ENGINE = create_engine(f'mysql://{conf["DB"]["USER"]}:{conf["DB"]["PASS"]}@{conf["DB"]["HOST"]}:{conf["DB"]["PORT"]}')
+        self.ENGINE = create_engine(
+            f'mysql://{conf["DB"]["USER"]}:{conf["DB"]["PASS"]}@{conf["DB"]["HOST"]}:{conf["DB"]["PORT"]}')
 
     def execute_sql_file(self, filepath):
         with open(filepath, 'r') as fp:
@@ -32,6 +32,20 @@ class DatabaseModel:
                     continue
                 self.CURSOR.execute(block)
         self.DB.commit()
+
+    def execute_single(self, sql, data):
+        self.CURSOR.execute(sql, data)
+        self.DB.commit()
+
+    def execute_return_all(self, sql):
+        self.CURSOR.execute(sql)
+        fields = map(lambda x: x[0], self.CURSOR.description)
+        return [dict(zip(fields, row)) for row in self.CURSOR.fetchall()]
+
+    def execute_return_one(self, sql):
+        self.CURSOR.execute(sql)
+        fields = map(lambda x: x[0], self.CURSOR.description)
+        return [dict(zip(fields, row)) for row in self.CURSOR.fetchall()][-1]
 
     def close(self):
         self.DB.close()
