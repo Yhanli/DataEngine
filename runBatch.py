@@ -1,11 +1,15 @@
 import os
+import sys
 from DatabaseModel import DatabaseModel
 from ActionModel import ActionListModel
 from preBatchProcess import *
 from SupportModels import Admin
 import logging
 
-logging.basicConfig(level=logging.DEBUG)
+if 'debug' in str(sys.argv):
+    logging.basicConfig(level=logging.DEBUG)
+else:
+    logging.basicConfig(level=logging.CRITICAL)
 
 
 DB = DatabaseModel()
@@ -31,5 +35,5 @@ if __name__ == '__main__':
     admin.run_init_sqls()
     # admin.run_audit_reset()
     # destroy_all_table()
-    # runPreProcess()
+    runPreProcess()
     start_process()

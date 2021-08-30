@@ -77,7 +77,7 @@ class ActionModel:
                 auditor.finish_stage(self.STAGE_START_DATETIME, self.STAGE_TABLE)
                 return True
             except Exception as e:
-                auditor.failed_stage(self.STAGE_START_DATETIME, str(traceback.format_exc()))
+                auditor.failed_stage(self.STAGE_START_DATETIME, str(traceback.format_exc()), self.STAGE_TABLE)
 
                 print(f"FAIL : Staging {self.STAGE_TABLE} with {self.FILE_PREFIX}, {e} , trying with pandas")
                 # traceback.print_exc()
@@ -103,7 +103,7 @@ class ActionModel:
 
         except Exception as e:
             print(f"FAIL : Staging {self.STAGE_TABLE} with {self.FILE_PREFIX}, {e} ")
-            auditor.failed_stage(self.STAGE_START_DATETIME, str(traceback.format_exc()))
+            auditor.failed_stage(self.STAGE_START_DATETIME, str(traceback.format_exc()), self.STAGE_TABLE)
             # traceback.print_exc()
             return False
 
@@ -124,9 +124,9 @@ class ActionModel:
             try:
                 DB.execute_sql_file(f'Sql/dm_dq/{self.DQ_CODE}')
                 print(f"DQ SUCCESS : {self.DQ_CODE}")
-                auditor.finish_dq(self.STAGE_START_DATETIME, self.DQ_TABLE)
+                auditor.finish_dq(self.DQ_START_DATETIME, self.DQ_TABLE)
             except Exception as e:
-                auditor.failed_dq(self.DQ_START_DATETIME, str(traceback.format_exc()))
+                auditor.failed_dq(self.DQ_START_DATETIME, str(traceback.format_exc()), self.DQ_TABLE)
                 print(f"DQ FAIL : {self.DQ_CODE}, {e}")
 
     def destroy_dq(self):
@@ -151,7 +151,8 @@ class ActionModel:
                 auditor.finish_etl(self.ETL_START_DATETIME, self.ETL_TABLE)
                 for table in self.CHILD_TABLES:
                     auditor.finish_etl(self.ETL_START_DATETIME, table)
-                print(f"ETL SUCCESS : {self.ETL_CODE}")
+                    print(f"ETL SUCCESS : {self.ETL_CODE} - {table}")
+                print(f"ETL SUCCESS : {self.ETL_CODE} - {self.ETL_TABLE}")
 
             except Exception as e:
                 auditor.failed_etl(self.ETL_START_DATETIME, self.ETL_TABLE, str(traceback.format_exc()))
