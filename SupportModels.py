@@ -9,7 +9,10 @@ class Admin:
         self.DB = DB
 
     def run_init_sqls(self):
-        for file in (filter(lambda file_name: 'initiate' in file_name, os.listdir('Sql/Admin'))).sort():
+        file_list = os.listdir('Sql/Admin')
+        file_list.sort()
+        print(file_list)
+        for file in filter(lambda file_name: 'initiate' in file_name, file_list):
             print(f"INITIATING : {file}")
             file_path = (os.path.join(os.getcwd(), f'Sql/Admin/{file}'))
             self.DB.execute_sql_file(file_path)
